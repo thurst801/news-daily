@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Both Sides Daily</title>
+<style>
+:root{--paper:#f6f4f0;--ink:#1c1a18;--gray:#6d6a66;--line:#d9d5ce;--brown:#6b4f3a;--blue:#1f4e9c;--bluebg:#e8eef8;--red:#a8281f;--redbg:#f8e9e7;--mid:#7a6a58;--midbg:#efebe4}
+@media(prefers-color-scheme:dark){:root{--paper:#171513;--ink:#ece8e2;--gray:#a29d96;--line:#3a3631;--brown:#c19a78;--blue:#7da6ee;--bluebg:#1b2434;--red:#ea7f76;--redbg:#341d1b;--mid:#c0ad96;--midbg:#26221e}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+h1,h2,h3{font-family:Georgia,"Times New Roman",serif;line-height:1.2;margin:0}
+a{color:inherit}
+header{border-bottom:2px solid var(--ink);padding:14px 20px;display:flex;gap:16px;align-items:baseline;flex-wrap:wrap;position:sticky;top:0;background:var(--paper);z-index:5}
+header .brand{font:700 1.5rem Georgia,serif;text-decoration:none}
+header .date{color:var(--gray);font-size:.9rem;margin-left:auto}
+.menu{padding:10px 20px;border-bottom:1px solid var(--line);display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.menu select,.menu button{font:inherit;padding:6px 10px;border:1px solid var(--line);background:var(--paper);color:var(--ink);border-radius:4px;cursor:pointer}
+.menu button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+.menu button:focus-visible,.menu select:focus-visible,a:focus-visible{outline:3px solid var(--brown);outline-offset:2px}
+main{max-width:1100px;margin:0 auto;padding:24px 20px 60px}
+.banner{background:var(--midbg);border-left:4px solid var(--brown);padding:10px 14px;margin-bottom:24px;font-size:.9rem}
+.story{border-bottom:1px solid var(--line);padding:28px 0}
+.tag{color:var(--brown);font-size:.85rem;font-weight:600}
+.story h2{font-size:1.8rem;margin:4px 0 12px}
+.summary{max-width:70ch;font-family:Georgia,serif;font-size:1.05rem}
+.points{margin:12px 0 18px;padding-left:20px;max-width:70ch}
+.cols{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:16px}
+.col{border-top:5px solid;padding:12px 14px;border-radius:0 0 4px 4px}
+.col h3{font-size:1.05rem;margin-bottom:6px}
+.col p{margin:0 0 10px;font-size:.95rem}
+.col.d{border-color:var(--blue);background:var(--bluebg)}.col.d h3{color:var(--blue)}
+.col.r{border-color:var(--red);background:var(--redbg)}.col.r h3{color:var(--red)}
+.col.m{border-color:var(--mid);background:var(--midbg)}.col.m h3{color:var(--mid)}
+.src{font-size:.85rem;display:block;margin-top:4px}
+.empty{color:var(--gray);font-style:italic;font-size:.9rem}
+.more{display:inline-block;margin-top:16px;font-weight:600;color:var(--brown)}
+.deep h2{font-size:2.1rem;margin:6px 0 12px}
+.deep h3{margin:26px 0 8px;font-size:1.25rem}
+.deep ul{padding-left:20px;max-width:70ch}
+.agree{background:var(--midbg);padding:12px 16px;border-radius:4px;max-width:70ch}
+.cols.two{grid-template-columns:repeat(2,1fr)}.arg{margin-bottom:22px}.arg h4{font:700 1.02rem/1.3 Georgia,serif;margin:0 0 6px}.arg p{margin:0 0 6px}.arg ul{margin:0;padding-left:18px;font-size:.92rem}.arg .re{border-left:3px solid var(--brown);padding-left:10px;margin-top:10px;font-size:.92rem}.back{font-weight:600}
+@media(max-width:760px){.cols,.cols.two{grid-template-columns:1fr}.story h2{font-size:1.5rem}header .date{margin-left:0}}
+@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<header><a class="brand" href="#">Both Sides Daily</a><span class="date" id="today"></span></header>
+<nav class="menu" aria-label="Menu">
+  <select id="month" aria-label="Browse by month"></select>
+  <span id="topics"></span>
+</nav>
+<main id="app"></main>
+
+<script src="stories.js"></script>
+<script>
+/* ========= DATA LAYER =========
+   Replace getStories() with a fetch() to your own backend later.
+   Each story follows the shape below. Everything here is SAMPLE content. */
+const SAMPLE_NOTE = "Sample content: these stories and links show the layout only. Live stories need a data source (see next steps).";
+const STORIES = [
+ {id:"housing-costs",date:"2026-11-05",topic:"Economy",
+  headline:"Housing costs: how should government respond?",
+  points:["Rents and home prices remain high in many cities","Debate centers on building more vs. directly helping renters and buyers","Both sides cite zoning rules, but disagree on how much federal power to use"],
+  summary:"Housing affordability keeps rising on the national agenda. Most economists agree supply is part of the problem, but lawmakers disagree about the remedy. Democrats lean toward subsidies, tenant protections, and federal incentives for building. Republicans lean toward cutting regulation and letting local markets expand supply. Centrists often back zoning reform that both parties can claim.",
+  sides:{
+   d:{take:"Government should expand affordable housing funding, protect renters, and tie federal money to local zoning reform.",src:[["Example: center-left outlet","https://www.nytimes.com"],["Example: progressive outlet","https://www.msnbc.com"]]},
+   r:{take:"Excess regulation and permitting delays drive up costs. Reduce red tape and let builders respond to demand.",src:[["Example: center-right outlet","https://www.wsj.com"],["Example: conservative outlet","https://www.foxnews.com"]]},
+   m:{take:"Streamlining zoning and permitting can add supply while targeted aid helps those who need it now.",src:[["Example: centrist outlet","https://www.reuters.com"]]}},
+  deep:{background:"Housing prices respond to supply, interest rates, and local land-use rules. Most zoning authority sits with cities and states, which limits what Washington can directly change.",agree:["Supply has not kept up with demand in many metro areas","Permitting can be slow and expensive","Local rules matter more than federal ones"],caseD:[{claim:"Public investment is needed because the market will not build enough affordable homes",why:"Builders earn more on higher-priced units, so low-income housing often does not get built without help. Democrats see this as a market gap that only public money can fill.",evidence:["Federal housing aid programs currently reach only a fraction of eligible households","Affordable housing projects typically need subsidies to be financially viable"],rebuttal:"Republicans respond that subsidies help a limited number of households, while rules that block building keep prices high for everyone."},{claim:"Renter protections prevent displacement while supply catches up",why:"Building takes years, but rent increases hit now. Supporters argue short-term protections keep families in their homes and communities stable.",evidence:["Studies of sudden rent spikes link them to higher eviction and homelessness rates","Cities with tenant protections point to fewer displacement cases"],rebuttal:"Republicans say rent limits can shrink the supply of rental housing over time and leave newcomers worse off."}],caseR:[{claim:"Regulation is a major driver of high housing costs",why:"Republicans argue every permit, fee, and delay is added to the final price, so fewer rules means cheaper homes. They see local government as the main obstacle.",evidence:["Builders report permitting timelines that add months or years to projects","Research on restrictive zoning links it to higher prices in expensive metro areas"],rebuttal:"Democrats respond that deregulation alone has not produced affordable units for low-income buyers, and that some rules protect safety and neighborhoods."},{claim:"Markets respond to demand faster than government programs",why:"They argue that when builders are allowed to build, supply rises and prices ease without taxpayer cost. Subsidies can raise demand without adding homes.",evidence:["Faster-growing, less-regulated metros have often seen slower price growth","Critics of subsidies note that aid can be absorbed into higher rents if supply is fixed"],rebuttal:"Democrats say private builders aim at higher-priced homes, so the market alone often misses people at the bottom of the income scale."}]}},
+ {id:"ai-rules",date:"2026-11-05",topic:"Technology",
+  headline:"Regulating artificial intelligence",
+  points:["Push for national rules on safety and transparency","Concern that heavy rules could slow innovation and U.S. competitiveness","Disagreement over federal vs. state authority"],
+  summary:"Lawmakers are weighing how to oversee fast-moving AI systems. Supporters of oversight point to risks like misinformation, job disruption, and safety failures. Opponents warn that strict rules could push development overseas. Many agree on basic transparency but split on who should enforce it.",
+  sides:{
+   d:{take:"Set safety and transparency requirements for powerful systems, with enforcement by federal agencies.",src:[["Example: center-left outlet","https://www.washingtonpost.com"]]},
+   r:{take:"Favor light-touch rules, protect free speech and competitiveness, and avoid a patchwork of state laws.",src:[["Example: center-right outlet","https://www.wsj.com"]]},
+   m:{take:"Start with narrow rules on high-risk uses, such as hiring and health care, and revisit as the technology matures.",src:[["Example: centrist outlet","https://www.axios.com"]]}},
+  deep:{background:"AI policy spans consumer protection, national security, copyright, and labor. Several states have passed their own laws while Congress debates a national approach.",agree:["Some transparency about how systems are used is reasonable","Deepfakes and fraud are real harms"],caseD:[{claim:"Powerful systems can cause harm at scale before problems are noticed",why:"Democrats argue that waiting for harm to appear means damage is already done. Setting rules early is cheaper than fixing failures afterward.",evidence:["Documented cases of AI systems producing biased hiring or lending outcomes","Growing use of deepfakes in fraud and political misinformation"],rebuttal:"Republicans respond that rules written before the technology matures can miss real risks and block useful applications."},{claim:"Voluntary company promises are not enough",why:"They point out that companies compete for speed and market share, which creates pressure to cut corners without outside requirements.",evidence:["Past tech industry cases where self-regulation fell short on privacy and safety","Many AI developers have themselves asked for some government rules"],rebuttal:"Republicans say existing consumer-protection and fraud laws already cover many harms, so new agencies are unnecessary."}],caseR:[{claim:"Heavy rules would slow innovation and hand an advantage to other countries",why:"Republicans argue that compliance costs favor large, established companies and push new development abroad, weakening U.S. competitiveness.",evidence:["Smaller companies often report that compliance costs are harder for them to absorb","Other countries are competing to lead in AI development"],rebuttal:"Democrats respond that big companies already dominate, and that clear rules can protect smaller firms and the public."},{claim:"A patchwork of state laws creates confusion",why:"They argue that fifty different rules make it impractical to build and deploy products nationwide, so one light federal standard is better.",evidence:["Several states have already passed differing AI laws","Businesses operating across states report higher legal costs"],rebuttal:"Democrats say a weak national standard could override stronger state protections, so states should stay free to act."}]}},
+ {id:"immigration-courts",date:"2026-10-22",topic:"Immigration",
+  headline:"Immigration court backlogs",
+  points:["Millions of cases are waiting in the system","Proposals include more judges, faster screening, or stricter enforcement","Both sides want shorter waits but disagree on priorities"],
+  summary:"Long waits in immigration courts affect migrants, employers, and communities. Both parties say the system is overloaded. They disagree on whether the fix is more resources and legal pathways, or tougher enforcement and faster removals.",
+  sides:{
+   d:{take:"Hire more judges and expand legal pathways so cases move faster and fairly.",src:[["Example: center-left outlet","https://www.npr.org"]]},
+   r:{take:"Prioritize border enforcement and faster removal of those without valid claims.",src:[["Example: center-right outlet","https://www.nationalreview.com"]]},
+   m:null},
+  deep:{background:"Immigration judges work for the Justice Department, and caseloads have grown faster than staffing for years.",agree:["Long waits are costly for everyone involved"],caseD:[{claim:"A bigger court system is the fastest way to cut the backlog",why:"Democrats argue that cases pile up because judges are outnumbered, so adding judges and staff directly reduces waiting times.",evidence:["Caseloads per judge have grown much faster than the number of judges","Pending cases have climbed for years while staffing stayed comparatively flat"],rebuttal:"Republicans respond that adding judges without stricter enforcement may only invite more filings."},{claim:"Due process matters even when it is slow",why:"They argue that fast decisions with less review increase mistakes, and that people with valid claims should get a fair hearing.",evidence:["Having a lawyer is strongly linked to better outcomes in immigration court","Past rushed procedures drew legal challenges and reversals"],rebuttal:"Republicans say prolonged proceedings are also unfair to people with valid claims and to taxpayers."}],caseR:[{claim:"Weak enforcement encourages more people to enter and wait",why:"Republicans argue that long waits act as an incentive, since people can live and work in the U.S. while their cases drag on.",evidence:["Many applicants live in the country for years before a final ruling","Officials point to rising numbers of cases filed each year"],rebuttal:"Democrats respond that the evidence for this incentive is mixed and that backlogs mostly reflect understaffed courts."},{claim:"Faster screening should weed out weak claims early",why:"They argue that resolving clearly unqualified cases quickly frees the system for people with strong claims.",evidence:["Many claims are ultimately denied after long waits","Expedited screening is already used in some parts of the process"],rebuttal:"Democrats say fast screening risks wrongly denying people with valid claims, especially those without legal help."}]}}
+];
+const LIVE=!!window.STORIES_DATA;
+async function getStories(){return LIVE?window.STORIES_DATA.stories:STORIES;}
+
+/* ========= APP ========= */
+const app=document.getElementById("app"),monthSel=document.getElementById("month"),topicBox=document.getElementById("topics");
+let all=[],topic="All",month="today";
+const fmtMonth=d=>new Date(d+"T12:00").toLocaleString("en-US",{month:"long",year:"numeric"});
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const links=a=>a.map(([t,u])=>`<a class="src" href="${esc(u)}" target="_blank" rel="noopener">${esc(t)} ↗</a>`).join("");
+const col=(cls,name,s)=>`<section class="col ${cls}"><h3>${name}</h3>${s?`<p>${esc(s.take)}</p>${links(s.src)}`:`<p class="empty">No distinct centrist position found for this story.</p>`}</section>`;
+const cols=s=>`<div class="cols">${col("d","Democrats",s.sides.d)}${col("m","Middle",s.sides.m)}${col("r","Republicans",s.sides.r)}</div>`;
+function card(s){return `<article class="story"><div class="tag">${esc(s.topic)}</div><h2>${esc(s.headline)}</h2>
+<ul class="points">${s.points.map(p=>`<li>${esc(p)}</li>`).join("")}</ul><p class="summary">${esc(s.summary)}</p>${cols(s)}
+<a class="more" href="#story/${s.id}">Go deeper on this story</a></article>`}
+const caseBox=(cls,name,arr)=>`<section class="col ${cls}"><h3>${name}</h3>${arr.map(a=>`<div class="arg"><h4>${esc(a.claim)}</h4><p><b>Their reasoning:</b> ${esc(a.why)}</p><p><b>Evidence they point to:</b></p><ul>${a.evidence.map(e=>`<li>${esc(e)}</li>`).join("")}</ul>${a.rebuttal?`<p class="re"><b>What the other side says back:</b> ${esc(a.rebuttal)}</p>`:""}</div>`).join("")}</section>`;
+function deep(s){const d=s.deep;return `<div class="deep"><a class="back" href="#">← Back to stories</a><div class="tag" style="margin-top:14px">${esc(s.topic)} · ${esc(s.date)}</div><h2>${esc(s.headline)}</h2>
+<p class="summary">${esc(s.summary)}</p><h3>Background</h3><p style="max-width:70ch">${esc(d.background)}</p>
+<h3>Where both sides agree</h3><div class="agree"><ul>${d.agree.map(x=>`<li>${esc(x)}</li>`).join("")}</ul></div>
+<h3>Perspectives and sources</h3>${cols(s)}
+<h3>The strongest case for each side</h3><p style="max-width:70ch;color:var(--gray)">Each argument shows what they claim, why they believe it, and the evidence they point to. Check the sources before using any of it in a debate.</p><div class="cols two">${caseBox("d","Democratic arguments",d.caseD)}${caseBox("r","Republican arguments",d.caseR)}</div></div>`}
+function render(){
+ const h=location.hash;
+ if(h.startsWith("#story/")){const s=all.find(x=>x.id===h.slice(7));app.innerHTML=s?deep(s):"<p>Story not found.</p>";window.scrollTo(0,0);return}
+ const latest=all.length?all.map(s=>s.date).sort().pop():"";
+ let list=all.filter(s=>topic==="All"||s.topic===topic);
+ list=month==="today"?list.filter(s=>s.date===latest):list.filter(s=>s.date.slice(0,7)===month);
+ list.sort((a,b)=>b.date.localeCompare(a.date));
+ const head=month==="today"?"":`<h1 style="margin-bottom:6px">${fmtMonth(month+"-01")}</h1>`;
+ app.innerHTML=`${LIVE?"":`<div class="banner">${SAMPLE_NOTE}</div>`}${head}`+(list.length?list.map(card).join(""):`<p class="empty">No stories match these filters. Try another topic or month.</p>`);
+}
+function buildMenu(){
+ const months=[...new Set(all.map(s=>s.date.slice(0,7)))].sort().reverse();
+ monthSel.innerHTML=`<option value="today">Today's stories</option>`+months.map(m=>`<option value="${m}">${fmtMonth(m+"-01")}</option>`).join("");
+ const ts=["All",...new Set(all.map(s=>s.topic))];
+ topicBox.innerHTML=ts.map(t=>`<button aria-pressed="${t===topic}" data-t="${t}">${t}</button>`).join(" ");
+}
+monthSel.onchange=e=>{month=e.target.value;location.hash="";render()};
+topicBox.onclick=e=>{const t=e.target.dataset.t;if(!t)return;topic=t;buildMenu();location.hash="";render()};
+window.onhashchange=render;
+document.getElementById("today").textContent=new Date().toLocaleDateString("en-US",{weekday:"long",month:"long",day:"numeric",year:"numeric"});
+getStories().then(d=>{all=d;buildMenu();render()});
+</script>
+</body>
+</html>
