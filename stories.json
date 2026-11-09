@@ -1,6 +1,212 @@
 {
-  "updated": "2026-11-08",
+  "updated": "2026-11-09",
   "stories": [
+    {
+      "id": "2026-11-09-1-representative-thomas-massie-files-impea",
+      "date": "2026-11-09",
+      "topic": "Courts & Law",
+      "headline": "Representative Thomas Massie Files Impeachment Articles Against Defense Secretary Pete Hegseth",
+      "points": [
+        "Republican Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth.",
+        "The resolution accuses Hegseth of illegally waging war against Iran without congressional authorization under the War Powers Resolution.",
+        "The move forces a potential vote during the lame-duck session before Democrats take control of the House in January.",
+        "Some House Republicans privately warn the resolution could garner enough votes to pass."
+      ],
+      "summary": "Republican Representative Thomas Massie has introduced articles of impeachment against Defense Secretary Pete Hegseth, accusing him of high crimes and misdemeanors over military action in Iran. Massie contends that operations were conducted without legally required congressional approval under the War Powers Resolution. The privileged resolution creates an immediate procedural issue for House leadership as lawmakers return for their post-election session. While some Republicans view the attempt as unlikely to succeed, others warn that intra-party tensions could allow the measure to pass.",
+      "sides": {
+        "d": {
+          "take": "Democrats favor increased scrutiny of the administration's foreign policy and view the impeachment vote as a step toward accountability.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Rep. Thomas Massie argues Hegseth violated constitutional limits on military force, while some House Republicans express concern over the timing and viability of the vote.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/hegseth-impeachment-vote-looms-house-republicans-privately-warn-could-pass"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/09/us-news/rep-thomas-massie-reintroduces-impeachment-articles-against-pete-hegseth-over-iran-war/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist reports highlight that the filing forces a floor vote on executive war powers during a transitional period for House control.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/09/pete-hegseth-impeachment-iran-war"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Following U.S. military strikes involving Iran, questions arose in Congress regarding compliance with statutory war powers requirements. Representative Thomas Massie introduced formal impeachment charges against Defense Secretary Pete Hegseth as lawmakers returned to Washington after the midterm elections. The filing occurs during a lame-duck session shortly before party control of the House shifts to Democrats in January.",
+        "agree": [
+          "Representative Thomas Massie introduced eight articles of impeachment against Defense Secretary Pete Hegseth.",
+          "The charges focus on military operations in Iran and authority under the War Powers Resolution."
+        ],
+        "caseD": [
+          {
+            "claim": "Defense Secretary Hegseth bypassed constitutional oversight by engaging in unauthorized military conflict.",
+            "why": "Executive officials are legally required under the War Powers Resolution to obtain congressional authorization before engaging in sustained war.",
+            "evidence": [
+              "Massie introduced eight articles of impeachment accusing Hegseth of illegally waging war without authorization.",
+              "House Minority Leader Hakeem Jeffries noted Congress requested briefings on administration military actions."
+            ],
+            "rebuttal": "Administration defenders argue military actions fell within presidential authority to manage active foreign security threats."
+          },
+          {
+            "claim": "Executive officials must face accountability for potential constitutional violations.",
+            "why": "Failing to challenge unauthorized military action undermines Congress's sole authority to declare war.",
+            "evidence": [
+              "Massie stated Hegseth will remain a threat to the Constitution if allowed to stay in office.",
+              "Massie noted he believes the impeachment resolution is more likely to pass following election results."
+            ],
+            "rebuttal": "Critics of the impeachment push argue that forcing a floor vote creates internal party division without establishing legal consensus."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The impeachment resolution exposes internal party disagreement over executive power and foreign policy.",
+            "why": "A member of the majority party forcing a vote creates procedural challenges for leadership during a transitional legislative session.",
+            "evidence": [
+              "House Republicans privately warned that the Hegseth impeachment vote could pass.",
+              "Massie introduced the resolution as a privileged measure to force a House vote."
+            ],
+            "rebuttal": "Opponents contend that legislative focus should remain on passing end-of-year bills rather than pursuing cabinet impeachments."
+          },
+          {
+            "claim": "Administration military actions achieved necessary defense goals as active operations conclude.",
+            "why": "The administration maintains that foreign operations were measured and are reaching a conclusion.",
+            "evidence": [
+              "Trump stated during a press briefing that Iran's military operations were effectively done.",
+              "Trump stated a renewed military campaign against Iran is quite unlikely."
+            ],
+            "rebuttal": "Critics argue that operational success does not substitute for obtaining statutory congressional approval prior to waging war."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-09-2-trump-reorganizes-white-house-leadership",
+      "date": "2026-11-09",
+      "topic": "Elections",
+      "headline": "Trump Reorganizes White House Leadership Following Midterm Election Results",
+      "points": [
+        "President Trump appointed Stephen Miller as White House chief of staff, replacing Susie Wiles.",
+        "The leadership change follows significant Democratic victories across House and Senate races.",
+        "Trump publicly noted that aggressive immigration enforcement policies impacted Republican performance at the polls.",
+        "Administration officials indicated a willingness to discuss immigration reform with Democrats while opposing full amnesty."
+      ],
+      "summary": "President Trump has restructured senior White House staff following widespread Democratic gains in the midterm elections, appointing long-time policy adviser Stephen Miller as chief of staff. Miller replaces Susie Wiles as the administration prepares for a divided government in January. In public statements after the election, Trump acknowledged that strict enforcement tactics created political challenges for Republicans. Meanwhile, cabinet officials signaled potential openness to negotiating immigration legislation with incoming congressional leaders while maintaining opposition to general amnesty.",
+      "sides": {
+        "d": {
+          "take": "Democrats view the appointment of Stephen Miller as a commitment to hardline policies despite public pushback in the midterms.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/09/g-s1-152627/up-first-newsletter-stephen-miller-trump-congress-nvidia-cop31"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/09/nx-s1-6034027/after-midterm-losses-trump-makes-changes-to-his-inner-circle"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans emphasize that the administration remains committed to border security while exploring potential bipartisan discussions without granting amnesty.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-tells-dhs-chief-work-democrats-immigration-reform-no-amnesty"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/white-house-doubles-down-trump-angers-base-floating-illegal-alien-deal-dems"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist reporting underscores that Trump modified his inner circle while acknowledging the political fallout from foreign policy and border enforcement.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cmg476w7wnl2o?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6209097-watch-live-trump-briefs-media-as-miller-takes-over-top-white-house-post/"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The midterm elections resulted in major seat gains for Democrats, shifting control of Congress for the final two years of President Trump's term. Following the results, the White House announced senior personnel changes as lawmakers returned to Washington for a lame-duck session. The reorganization comes amid broader debates over the administration's policy trajectory on immigration and foreign engagement.",
+        "agree": [
+          "Stephen Miller replaced Susie Wiles as White House chief of staff.",
+          "Democrats secured major seat victories in the midterm elections."
+        ],
+        "caseD": [
+          {
+            "claim": "Midterm results signaled voter rejection of the administration's hardline agenda.",
+            "why": "Significant gains across congressional races indicated widespread public concern over aggressive enforcement and economic pressures.",
+            "evidence": [
+              "Democrats made major gains in the House and Senate during the midterm elections.",
+              "Trump stated that sweeping deportations politically hurt Republicans in the midterms."
+            ],
+            "rebuttal": "Republicans contend that midterm elections traditionally present challenges for the incumbent president's party regardless of specific policies."
+          },
+          {
+            "claim": "Naming Stephen Miller as chief of staff signals an uncompromising approach toward congressional majorities.",
+            "why": "Miller's record as the primary strategist behind immigration crackdowns indicates an emphasis on executive confrontation.",
+            "evidence": [
+              "Miller was described as the architect of mass deportation policies and hardline immigration controls.",
+              "Coverage indicated Miller's appointment signaled readiness to confront political opposition."
+            ],
+            "rebuttal": "Supporters argue Miller brings administrative discipline and clear alignment with the president's platform."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The administration is open to constructive discussions on immigration reform without compromising core principles.",
+            "why": "Engaging congressional opposition offers a path toward legislative solutions if basic security conditions are respected.",
+            "evidence": [
+              "Homeland Security Secretary Mullin stated Trump instructed him to engage Democrats on immigration reform.",
+              "Administration officials stated that blanket amnesty for illegal immigrants remains off the table."
+            ],
+            "rebuttal": "Critics contend that floating potential deals contradicts previous campaign commitments and creates policy uncertainty."
+          },
+          {
+            "claim": "Staff adjustments are standard measures to realign White House operations for upcoming legislative challenges.",
+            "why": "Reorganizing senior staff after elections allows the presidency to adapt its administrative focus.",
+            "evidence": [
+              "Trump made changes to his closest advisers following midterm election losses.",
+              "Miller assumed the role of chief of staff as Congress reconvened in Washington."
+            ],
+            "rebuttal": "Opponents argue that high-level personnel changes reflect internal instability following poor electoral outcomes."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-08-1-democrats-win-sweeping-midterm-victories",
       "date": "2026-11-08",
