@@ -1,6 +1,382 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-11",
   "stories": [
+    {
+      "id": "2026-11-11-1-house-procedure-vote-blocks-impeachment-",
+      "date": "2026-11-11",
+      "topic": "Courts & Law",
+      "headline": "House Procedure Vote Blocks Impeachment Resolution Against Defense Secretary Pete Hegseth",
+      "points": [
+        "Representative Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth.",
+        "The procedural vote to advance impeachment failed by seven votes after eleven Democrats were absent.",
+        "House Republicans and President Trump defended Hegseth and welcomed the blocking of the effort.",
+        "Democratic leaders expressed frustration over missed votes while indicating future oversight could continue."
+      ],
+      "summary": "A House attempt to advance impeachment articles against Defense Secretary Pete Hegseth failed after a procedural vote fell short by seven votes. The resolution's defeat was enabled in part by the absence of eleven Democratic lawmakers during the evening vote. President Donald Trump praised the outcome and defended Hegseth, calling him a great patriot. Meanwhile, Democratic critics expressed outrage over the missed votes and signaled potential future oversight inquiries when taking control of the House.",
+      "sides": {
+        "d": {
+          "take": "Democratic lawmakers supported impeaching Defense Secretary Pete Hegseth, arguing the charges were legitimate, while expressing frustration that absent colleagues allowed Republicans to defeat the measure.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/house/6214005-ocasio-cortez-backs-massie/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans and President Trump opposed the impeachment attempt, celebrating its defeat and characterizing Hegseth as a dedicated patriot.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Congressional reporting noted that the procedural effort to impeach Hegseth failed by seven votes due to Democratic absences, though Democrats may attempt further oversight next year.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/11/democrats-hegseth-impeachment-vote"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Representative Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth, setting up a procedural vote in the House. The vote took place shortly after midterm elections that determined control of the upcoming Congress. Eleven Democratic representatives failed to cast votes during the evening roll call, leading to the resolution's failure.",
+        "agree": [
+          "Representative Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth.",
+          "The key procedural vote failed by seven votes, with eleven Democrats absent."
+        ],
+        "caseD": [
+          {
+            "claim": "Impeachment proceedings against Defense Secretary Hegseth are justified.",
+            "why": "Lawmakers argue the grounds cited in impeachment articles are legitimate and warrant accountability.",
+            "evidence": [
+              "Representative Alexandria Ocasio-Cortez stated that Representative Massie's articles of impeachment were 'completely legitimate.'",
+              "Eleven Democrats missing the vote enabled Republicans to squash the resolution by seven votes."
+            ],
+            "rebuttal": "Republicans contend the impeachment effort is politically motivated and lacks factual basis."
+          },
+          {
+            "claim": "Democratic absences undermined party efforts to hold administration officials accountable.",
+            "why": "Missing key votes allowed Republicans to defeat procedural measures that required full participation.",
+            "evidence": [
+              "Democratic lawmakers expressed outrage at the 11 colleagues who missed the vote.",
+              "Absent members cited traffic and conflicting events for their failure to vote."
+            ],
+            "rebuttal": "Republicans maintain the resolution would have ultimately failed because Hegseth retains strong support."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The impeachment attempt was an unfounded political maneuver.",
+            "why": "Republicans view Hegseth as an effective leader and patriot who should not be subjected to partisan impeachment.",
+            "evidence": [
+              "President Trump welcomed the vote outcome and praised Hegseth as a 'Great American Patriot.'",
+              "House Republicans successfully voted down the procedural motion to advance impeachment."
+            ],
+            "rebuttal": "Democrats argue that administration officials must remain subject to congressional oversight and constitutional accountability."
+          },
+          {
+            "claim": "Defense Secretary Hegseth should remain focused on national defense responsibilities.",
+            "why": "Supporters argue that political distraction hinders executive branch leadership.",
+            "evidence": [
+              "President Trump publicly defended Hegseth during remarks at Arlington National Cemetery.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics contend that alleged misconduct warrants legislative inquiry regardless of executive duties."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-2-white-house-warns-congressional-democrat",
+      "date": "2026-11-11",
+      "topic": "Courts & Law",
+      "headline": "White House Warns Congressional Democrats Against Planned Investigations",
+      "points": [
+        "Incoming House Oversight Committee Democrats announced plans for broad inquiries into the Trump administration.",
+        "White House Counsel warned that aggressive oversight could cross legal lines into criminality and extortion.",
+        "Democratic leaders argued the administration appears to have something to hide and pledged to proceed.",
+        "Legal experts note the U.S. Constitution grants lawmakers immunity for legislative actions."
+      ],
+      "summary": "The White House issued formal warnings to congressional Democrats preparing to launch investigations into executive branch actions. White House Counsel warned that planned inquiries might cross into criminality or extortion. Incoming Oversight Committee Ranking Member Robert Garcia rejected the threats, asserting that the White House's posture suggests it has something to hide. Legal observers pointed out that the Speech or Debate Clause of the Constitution provides broad immunity to lawmakers performing legislative duties.",
+      "sides": {
+        "d": {
+          "take": "Democrats maintain that congressional oversight is a core constitutional responsibility and contend that White House pushback shows the administration seeks to avoid transparency.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "The White House Counsel warned that aggressive Democratic oversight efforts are overly partisan and could border on illegal extortion.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/top-dem-committee-fires-back-white-house-counsel-warns-overreach-amid-investigation-threats"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/11/us-news/white-house-blasts-democrats-planning-probes-of-trump-admin-will-not-be-extorted-and-will-not-be-cowed/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Following midterm elections, House Democrats signaled intentions to launch aggressive oversight investigations into President Trump's administration and cabinet officials. In response, White House Counsel sent letters warning lawmakers against overreaching congressional authority. The dispute highlights escalating friction between the executive branch and incoming legislative leadership.",
+        "agree": [
+          "White House Counsel issued formal warnings regarding planned Democratic oversight investigations.",
+          "Representative Robert Garcia vows to pursue congressional inquiries despite White House opposition."
+        ],
+        "caseD": [
+          {
+            "claim": "Congress has constitutional authority and responsibility to investigate executive branch actions.",
+            "why": "Legislative oversight ensures government accountability and transparency for the public.",
+            "evidence": [
+              "Representative Robert Garcia stated the committee will press on despite White House warnings.",
+              "The U.S. Constitution grants lawmakers broad immunity for legislative acts."
+            ],
+            "rebuttal": "The White House argues that investigations conducted for partisan gain cross executive protection boundaries."
+          },
+          {
+            "claim": "Executive threats against lawmakers suggest administration wrongdoing.",
+            "why": "Attempts to intimidate committee chairs indicate reluctance to face public scrutiny.",
+            "evidence": [
+              "Representative Garcia stated President Trump appears to have 'something to hide.'",
+              "White House Counsel warned investigations could cross into 'blatant criminality.'"
+            ],
+            "rebuttal": "Republicans assert the White House is defending legitimate executive authority against abusive oversight."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Democratic oversight plans constitute partisan harassment and overreach.",
+            "why": "The administration argues lawmakers are targeting executive officials for political retaliation.",
+            "evidence": [
+              "White House Counsel Will Scharf stated the administration 'will not be extorted and will not be cowed.'",
+              "Scharf warned ranking member Robert Garcia against overreaching congressional authority."
+            ],
+            "rebuttal": "Democrats state that oversight is standard legislative procedure backed by constitutional protections."
+          },
+          {
+            "claim": "Congress must not abuse legislative power to obstruct executive branch operations.",
+            "why": "Excessive subpoenas and criminal threats against officials disrupt governance.",
+            "evidence": [
+              "White House letters cautioned that planned inquiries may cross lines into illegal conduct.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats respond that executive officials are accountable to law and congressional review."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-3-kennedy-family-files-lawsuit-to-stop-pro",
+      "date": "2026-11-11",
+      "topic": "Courts & Law",
+      "headline": "Kennedy Family Files Lawsuit to Stop Proposed Arch Near Arlington National Cemetery",
+      "points": [
+        "Nine members of the Kennedy family joined a lawsuit to block President Trump's proposed 250-foot arch.",
+        "The lawsuit claims the monument would cast shadows and disrupt scenic views of John F. Kennedy's grave.",
+        "President Trump visited Arlington National Cemetery on Veterans Day amid the growing legal battle.",
+        "Opponents argue the project alters historic grounds, while supporters back monumental national tributes."
+      ],
+      "summary": "Nine members of the Kennedy family have filed a lawsuit seeking to halt construction of President Trump's planned 250-foot triumphal arch near Arlington National Cemetery. The plaintiffs argue the massive structure would cast shadows over the grave of former President John F. Kennedy and compromise the cemetery's solemn environment. The legal challenge comes as President Trump visited Arlington to participate in Veterans Day wreath-laying ceremonies. Opponents view the arch as intrusive, while proponents frame it as a monumental tribute.",
+      "sides": {
+        "d": {
+          "take": "Kennedy family descendants and critics oppose the monument, arguing it disfigures historic burial grounds and disrupts views of sacred sites.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/11/nx-s1-6037372/kennedys-trump-arch-lawsuit-jfk-grave-arlington-cemetery"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/11/nx-s1-6036845/kennedys-sue-to-block-trumps-arch"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        },
+        "r": {
+          "take": "President Trump and administration supporters champion the monumental arch project, visiting Arlington to honor service members amidst the legal dispute.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/11/us/politics/trump-arlington-cemetery-arch.html"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "President Trump proposed constructing a 250-foot triumphal arch adjacent to Arlington National Cemetery. The proposal met resistance from historic preservationists and relatives of prominent figures buried at the site. Nine members of the Kennedy family formally joined legal action to block the project ahead of Veterans Day ceremonies.",
+        "agree": [
+          "Nine members of the Kennedy family filed a lawsuit against the proposed 250-foot arch.",
+          "The proposed construction site is located near Arlington National Cemetery."
+        ],
+        "caseD": [
+          {
+            "claim": "The proposed arch would harm the historical integrity of Arlington Cemetery.",
+            "why": "A massive 250-foot structure ruins views and casts unwanted shadows on sacred gravesites.",
+            "evidence": [
+              "Nine Kennedy family members alleged the arch would cast shadows over JFK's grave.",
+              "Lawsuits claim the structure disrupts historic views at Arlington National Cemetery."
+            ],
+            "rebuttal": "Supporters contend the monument enhances honor and recognition for national service."
+          },
+          {
+            "claim": "Monuments near sacred military grounds should require broad consensus and respect.",
+            "why": "Unilateral construction decisions disregard the wishes of veterans' families.",
+            "evidence": [
+              "Descendants of President John F. Kennedy filed legal paperwork asking a judge to block construction.",
+              "Legal opposition to the project site has expanded among affected families."
+            ],
+            "rebuttal": "Proponents argue executive authority permits establishing national monuments to commemorate service."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The monumental arch serves as an appropriate national tribute to American heroism.",
+            "why": "Large-scale monuments properly commemorate national strength and military history.",
+            "evidence": [
+              "President Trump visited Arlington National Cemetery on Veterans Day to participate in tributes.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics argue the scale and location of the arch are disrespectful to existing historic graves."
+          },
+          {
+            "claim": "Legal challenges against the arch are driven by political opposition to the administration.",
+            "why": "Opponents use court filings to delay and block presidential initiatives.",
+            "evidence": [
+              "President Trump marked Veterans Day at Arlington alongside executive leadership despite ongoing lawsuits.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Plaintiffs state the lawsuit focuses specifically on protecting ancestral gravesites and views."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-11-4-u-s-and-u-k-authorities-charge-iran-back",
+      "date": "2026-11-11",
+      "topic": "Foreign Policy",
+      "headline": "U.S. and U.K. Authorities Charge Iran-Backed Operatives Over Alleged Attack Plots",
+      "points": [
+        "Federal prosecutors charged three Iran-backed operatives in connection with nearly 20 alleged attack plots.",
+        "Targeted locations included a U.K. military base housing U.S. armed forces personnel.",
+        "Separately, a U.S. soldier was detained in the U.K. under suspicion of spying for Russia.",
+        "U.S. officials face ongoing security concerns and debates over long-term strategic posture toward Iran."
+      ],
+      "summary": "Law enforcement authorities in the United States and the United Kingdom revealed criminal charges against three Iran-backed operatives accused of plotting multiple attacks. The Department of Justice stated the suspects were linked to nearly 20 plots, including an incident targeting a U.K. air base used by U.S. forces. In a separate national security case, a U.S. Army soldier was arrested in London on suspicion of spying for Russia. The arrests reflect heightened security risks involving foreign state actors as officials evaluate policy options toward Iran.",
+      "sides": {
+        "d": {
+          "take": "Democrats support robust law enforcement and intelligence operations to foil state-sponsored terror plots while maintaining international security partnerships.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans emphasize the persistent danger from Iran and Russia, arguing aggressive posture and defense readiness are essential to protect military personnel.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/opinion/international/6212486-trump-iran-policy-pressure/"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-defends-iran-war-during-veterans-day-address-says-making-world-safer"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Independent reporting detailed federal charges against three suspects linked to Iran-backed plots against U.S. and Allied installations.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Western intelligence agencies have monitored increasing shadow operations linked to adversary nations including Iran and Russia. Recent joint investigations by U.S. and U.K. authorities led to arrests targeting operational cells planning attacks on military facilities. These developments coincide with diplomatic and military discussions regarding security in Europe and the Middle East.",
+        "agree": [
+          "Three suspects linked to Iran were charged in relation to multiple plot attempts.",
+          "One targeted location was RAF Fairford, a U.K. base hosting U.S. military personnel."
+        ],
+        "caseD": [
+          {
+            "claim": "Multilateral law enforcement cooperation is vital for preventing foreign attack plots.",
+            "why": "Joint intelligence operations effectively disrupt international threat networks before strikes occur.",
+            "evidence": [
+              "Federal prosecutors arrested three men accused of being Iran-backed operatives targeting a U.K. base.",
+              "U.K. authorities separately arrested a U.S. soldier on Russia spying allegations."
+            ],
+            "rebuttal": "Republicans argue law enforcement action must be backed by decisive military deterrence against sponsor nations."
+          },
+          {
+            "claim": "Countering foreign threats requires careful intelligence scrutiny over rash escalation.",
+            "why": "Targeted counterterrorism measures mitigate security threats without triggering wider regional conflicts.",
+            "evidence": [
+              "The U.S. Department of Justice detailed charges covering nearly 20 distinct plot attempts.",
+              "Former CIA officials outlined ongoing multi-nation security investigations into Iran and Russia."
+            ],
+            "rebuttal": "Hawkish critics contend prolonged diplomatic pressure fails to prevent continued Iranian aggression."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "State-sponsored terror threats demonstrate the need for maximum pressure against adversaries.",
+            "why": "Deterrence requires firm actions to stop foreign governments from targeting U.S. service members.",
+            "evidence": [
+              "President Trump stated the Iran conflict must aim for total victory to make the world safer.",
+              "Administration officials face internal debate on securing a non-nuclear settlement with Iran."
+            ],
+            "rebuttal": "Democrats note diplomatic channels and international partnerships remain necessary to avert larger wars."
+          },
+          {
+            "claim": "U.S. military installations and personnel abroad require heightened defense posture.",
+            "why": "Active threat cells directly target bases hosting U.S. forces in allied countries.",
+            "evidence": [
+              "The Department of Justice confirmed a major plot targeted RAF Fairford hosting U.S. troops.",
+              "Top U.S. officials have faced security relocation due to Iranian threats."
+            ],
+            "rebuttal": "Critics emphasize that threat mitigation relies heavily on joint intelligence gathering rather than force projection alone."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-09-1-representative-thomas-massie-files-impea",
       "date": "2026-11-09",
