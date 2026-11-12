@@ -1,6 +1,286 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "stories": [
+    {
+      "id": "2026-11-12-1-trump-directs-vance-away-from-iran-negot",
+      "date": "2026-11-12",
+      "topic": "Foreign Policy",
+      "headline": "Trump Directs Vance Away From Iran Negotiations to Target Domestic Programs",
+      "points": [
+        "President Trump announced that the United States is no longer pursuing a diplomatic deal with Iran.",
+        "Vice President JD Vance was redirected to focus on allegations of fraud and corruption in Democratic-led jurisdictions.",
+        "Financial markets reacted with higher oil prices and falling stock values following the foreign policy pivot."
+      ],
+      "summary": "President Donald Trump announced on social media that the United States is halting negotiations toward an agreement to end the war with Iran. In the same directive, he instructed Vice President JD Vance to shift away from diplomatic talks to investigate alleged fraud and crime in Democratic-run cities and states. The policy shift followed the recent midterm elections and immediately affected energy and stock markets. The move prompted conflicting responses over administration priorities and the future of Middle East diplomacy.",
+      "sides": {
+        "d": {
+          "take": "Democrats express concern over ending diplomatic efforts to halt the Iran war and argue that redirecting federal focus toward Democratic areas is a partisan diversion.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/12/us/politics/trump-vance-iran-fraud.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans contend that an international deal with Iran is unnecessary and assert that the administration must address substantial fraud in state-administered welfare programs.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/12/trump-vance-focus-democrat-cities-iran"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-asks-vance-focus-corruption-crime-dem-run-cities-states"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/12/us-news/trump-orders-vance-to-focus-on-blue-state-corruption-and-crime-says-we-dont-need-a-deal-with-iran/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Vice President JD Vance had previously led administration efforts to restart negotiations to conclude the war with Iran. Following the midterm elections, President Trump announced that no agreement was needed with Tehran. The vice president was then reassigned to focus on domestic oversight and fraud enforcement in selected states.",
+        "agree": [
+          "President Trump announced that the U.S. is no longer pursuing a deal to end the Iran war.",
+          "Vice President JD Vance was instructed to focus on alleged corruption and fraud in Democratic-governed states and cities."
+        ],
+        "caseD": [
+          {
+            "claim": "Halting negotiations with Iran creates strategic uncertainty and destabilizes markets.",
+            "why": "Ending diplomatic engagement leaves the timeline and method for ending the war unclear while causing economic disruption.",
+            "evidence": [
+              "Oil prices surged and stocks sank after Trump posted that no deal with Iran was needed.",
+              "The announcement deepened questions regarding what the administration's plan is to end the war."
+            ],
+            "rebuttal": "Republicans maintain that current diplomatic frameworks are ineffective and that domestic accountability should take precedence."
+          },
+          {
+            "claim": "Targeting Democratic-led states for corruption inquiries is an act of partisan retaliation.",
+            "why": "Focusing federal investigative resources specifically on political opponents weaponizes government oversight.",
+            "evidence": [
+              "Trump specifically singled out Democrat-run cities and states while labeling political opponents as corrupt.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans argue that massive financial irregularities in states like Minnesota, California, and Illinois justify federal scrutiny."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The United States does not require an international agreement with Iran at this time.",
+            "why": "Pursuing a negotiated deal under current conditions does not align with national interests.",
+            "evidence": [
+              "Trump stated publicly that 'We don't need a deal with Iran' when announcing the strategic change.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats state that abandoning diplomacy removes a peaceful resolution mechanism and prolongs regional conflict."
+          },
+          {
+            "claim": "Federal attention is urgently needed to address benefit fraud in Democratic-led jurisdictions.",
+            "why": "Billions of taxpayer dollars are allegedly lost each month due to lax management and fraudulent schemes.",
+            "evidence": [
+              "Trump claimed that billions are stolen monthly from government programs in Minnesota, California, and Illinois.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats assert that broad corruption allegations against their states are unsubstantiated and politically motivated."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-12-2-defense-secretary-hegseth-survives-impea",
+      "date": "2026-11-12",
+      "topic": "Courts & Law",
+      "headline": "Defense Secretary Hegseth Survives Impeachment Effort Following Memorial Incident",
+      "points": [
+        "A House impeachment resolution directed at Defense Secretary Pete Hegseth failed to pass.",
+        "Hegseth awarded a military commendation medal to a soldier who reprimanded his staff at the Tomb of the Unknown Soldier.",
+        "Democratic critics continue to challenge Hegseth's leadership as Republicans defend his conduct and standards."
+      ],
+      "summary": "Defense Secretary Pete Hegseth survived an impeachment attempt in the U.S. House of Representatives following scrutiny over his Pentagon tenure. The vote occurred shortly after a Veterans Day visit to the Tomb of the Unknown Soldier, where an honor guard member reprimanded Hegseth's entourage for talking and laughing. Hegseth subsequently awarded the guard a Joint Service Commendation Medal for enforcing military standards. Despite the failed impeachment vote, lawmakers remain divided over Hegseth's fitness and military administration.",
+      "sides": {
+        "d": {
+          "take": "Democrats argue that Hegseth's behavior at a sacred military site and his unconventional leadership make him unsuitable to lead the Department of Defense.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/commentisfree/2026/nov/11/pete-hegseth-secretary-of-war-dopey-dangerous-midterms-impeachment"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/commentisfree/2026/nov/11/impeachment-pete-hegseth-donald-trump"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans maintain that Hegseth demonstrated respect for military protocol by decorating the soldier, and they view the impeachment attempt as partisan overreach.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/house-dem-misses-hegseth-impeachment-vote-major-medical-procedure-week-after-election-day"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Hegseth's leadership of the Pentagon has been a source of sharp congressional friction since his confirmation. The failed impeachment vote followed public attention surrounding an encounter between his entourage and an Arlington National Cemetery guard. The debate reflects ongoing partisan disputes over Department of Defense leadership and decorum.",
+        "agree": [
+          "An impeachment effort against Defense Secretary Pete Hegseth was voted on and failed in the House of Representatives.",
+          "Hegseth presented a Joint Service Commendation Medal to Specialist Thomas Iglesias for enforcing standards at the Tomb of the Unknown Soldier."
+        ],
+        "caseD": [
+          {
+            "claim": "Hegseth's conduct and posture demonstrate a lack of respect for military traditions.",
+            "why": "Disruptive behavior by leadership staff at a solemn national memorial compromises military discipline.",
+            "evidence": [
+              "Hegseth's staff members were heard talking and laughing near the Tomb of the Unknown Soldier during a Veterans Day visit.",
+              "Critics highlighted Hegseth's self-rebranding as 'secretary of war' as evidence of an unsuitable posture."
+            ],
+            "rebuttal": "Republicans argue that Hegseth affirmed military discipline by directly commending the soldier who enforced the rules."
+          },
+          {
+            "claim": "The defense secretary remains an unfit choice whose record warranted impeachment.",
+            "why": "Repeated controversies and administrative friction hinder the Pentagon's core operational responsibilities.",
+            "evidence": [
+              "House lawmakers brought forward a formal impeachment resolution against Hegseth.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans emphasize that the impeachment measure was defeated on the House floor and lacked necessary support."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The effort to impeach Hegseth was an unfounded partisan exercise.",
+            "why": "The resolution did not gain majority approval and serves primarily to advance political conflict.",
+            "evidence": [
+              "The House impeachment vote against Hegseth failed to pass.",
+              "At least one Democratic lawmaker missed the vote due to open-heart surgery, illustrating the tight margins."
+            ],
+            "rebuttal": "Democrats state that surviving a procedural vote does not resolve underlying concerns regarding Hegseth's judgment."
+          },
+          {
+            "claim": "Hegseth's response to the honor guard member upheld and celebrated military accountability.",
+            "why": "Recognizing the specialist with a medal demonstrates a commitment to military discipline and excellence.",
+            "evidence": [
+              "Hegseth awarded Specialist Thomas Iglesias the Joint Service Commendation Medal for the execution of his duties.",
+              "Hegseth publicly stated 'We love soldiers. We love standards. Well done, Specialist' in support of the guard."
+            ],
+            "rebuttal": "Democrats view the medal as a public relations maneuver intended to deflect from the initial breach of conduct."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-12-3-congressional-democrats-and-trump-admini",
+      "date": "2026-11-12",
+      "topic": "Courts & Law",
+      "headline": "Congressional Democrats and Trump Administration Trade Warnings Over Oversight Inquiries",
+      "points": [
+        "House committee leaders sent preservation notices to companies and officials ahead of planned oversight investigations.",
+        "The White House and a federal prosecutor warned Democratic lawmakers against pursuing specific inquiries, alleging donor intimidation.",
+        "The confrontation highlights emerging legal disputes regarding legislative power and executive immunity."
+      ],
+      "summary": "Democratic lawmakers have initiated steps to conduct congressional oversight of the Trump administration, ordering companies and officials to preserve relevant documents. In response, the White House and a federal prosecutor warned lawmakers that certain inquiries could amount to unlawful intimidation of administration donors. Democratic leaders rejected the warnings and pledged to proceed with their oversight duties. The dispute sets the stage for legal conflicts over the constitutional boundaries of congressional subpoenas and separation of powers.",
+      "sides": {
+        "d": {
+          "take": "Democrats assert that investigating administration projects and potential conflicts of interest is a constitutional responsibility that will not be deterred by executive warnings.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/12/climate/democrats-oversight-committees-letters.html"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/us-attorney-senate-dem-spar-dueling-letters-demanding-records-preservation-will-not-be-intimidated"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans and administration officials argue that Democratic inquiries are partisan fishing expeditions that harass private donors and exceed valid legislative purposes.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/us-attorney-senate-dem-spar-dueling-letters-demanding-records-preservation-will-not-be-intimidated"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/12/us-news/doj-warns-dem-sen-richard-blumenthal-over-probe-of-trump-ballroom-donors/"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/three-cheers-for-gridlock"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Following the midterm elections, Democratic lawmakers began preparing formal oversight reviews of White House spending, administration appointments, and private contributions. The executive branch has responded by challenging the legitimacy and scope of these requests, warning members of potential legal consequences. Both branches are testing the limits of subpoena authority and separation of powers.",
+        "agree": [
+          "House committees sent letters directing officials and corporations to preserve records.",
+          "The executive branch and a federal prosecutor sent formal communications warning lawmakers regarding their inquiries."
+        ],
+        "caseD": [
+          {
+            "claim": "Congress has a constitutional mandate to investigate executive actions and potential conflicts of interest.",
+            "why": "Lawmakers must review administrative decision-making and donor relationships to safeguard public resources.",
+            "evidence": [
+              "Two key House committees sent letters telling companies and officials not to destroy documents.",
+              "Sen. Richard Blumenthal publicly declared he would not be intimidated by prosecutor warnings regarding his inquiries."
+            ],
+            "rebuttal": "Republicans argue that congressional probes must adhere to defined legislative purposes rather than targeting private contributors."
+          },
+          {
+            "claim": "Executive branch threats represent an improper attempt to block lawful legislative scrutiny.",
+            "why": "Using federal legal warnings to suppress congressional oversight undermines checks and balances.",
+            "evidence": [
+              "The White House issued a letter warning Democrats who plan to investigate the administration.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans state that the administration is legally justified in protecting donors from political harassment."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Democratic oversight efforts improperly target and intimidate private citizens who support the administration.",
+            "why": "Threatening scrutiny of donors to public and private presidential projects oversteps lawful investigative norms.",
+            "evidence": [
+              "A federal prosecutor formally accused Sen. Blumenthal of attempting to intimidate donors to Trump's White House ballroom project.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats maintain that examining pay-for-play allegations involving White House projects is standard legislative oversight."
+          },
+          {
+            "claim": "Congressional inquiries must conform to constitutional constraints on legislative purpose and separation of powers.",
+            "why": "Broad investigations that lack a legitimate legislative nexus are vulnerable to judicial challenge.",
+            "evidence": [
+              "Legal analyses indicate lawmakers face court rulings restricting congressional oversight on immunity, standing, and valid purpose.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats argue that the judiciary has consistently affirmed broad congressional authority to scrutinize executive administration."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-11-1-house-procedure-vote-blocks-impeachment-",
       "date": "2026-11-11",
