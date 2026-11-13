@@ -1,6 +1,240 @@
 {
-  "updated": "2026-11-12",
+  "updated": "2026-11-13",
   "stories": [
+    {
+      "id": "2026-11-13-1-nvidia-ceo-resigns-following-personal-sc",
+      "date": "2026-11-13",
+      "topic": "Technology",
+      "headline": "Nvidia CEO Resigns Following Personal Scandal and Investigation Into AI Chip Export Control Failures",
+      "points": [
+        "Nvidia Chief Executive Jensen Huang stepped down after revelations involving extramarital affairs and a suspected Chinese spy.",
+        "Treasury Secretary Scott Bessent publicly faulted Commerce Secretary Howard Lutnick for delaying the blacklisting of Singapore-based Megaspeed.",
+        "Congress has summoned Huang to testify regarding national security concerns surrounding illegal advanced chip exports to Beijing."
+      ],
+      "summary": "Nvidia Chief Executive Jensen Huang abruptly resigned following revelations regarding extramarital affairs and ties to an alleged Chinese spy. The departure triggered intense scrutiny over whether American AI chips were illegally diverted to Beijing through third-party firms such as Megaspeed. Public friction emerged within the administration as Treasury Secretary Scott Bessent accused Commerce Secretary Howard Lutnick of stalling national security blacklists. Congressional leaders have summoned Huang to testify as lawmakers evaluate potential regulatory and export control failures.",
+      "sides": {
+        "d": {
+          "take": "Democrats argue the administration failed to act promptly to prevent sensitive AI chip technology from reaching China.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/news/audio/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans emphasize the need for strict national security enforcement while internal administration discussions focus on departmental responsibilities.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/13/us-news/scott-bessent-points-finger-at-howard-lutnick-over-nvidia-chip-scandal/"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/the-week-jensen-huang-honeytrapped"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Nvidia is a dominant producer of hardware essential for artificial intelligence development. Following revelations involving Huang and a suspected intelligence asset, concerns mounted over how high-end chips reached restricted foreign markets.",
+        "agree": [
+          "Jensen Huang resigned as CEO of Nvidia.",
+          "Megaspeed was under evaluation for placement on a government national security entity list."
+        ],
+        "caseD": [
+          {
+            "claim": "The Commerce Department dragged its feet on blacklisting entities tied to illicit chip diversions.",
+            "why": "Delaying blacklists allows foreign firms to continue acquiring sensitive American technology.",
+            "evidence": [
+              "Treasury Secretary Scott Bessent stated he was in favor for months of putting Megaspeed on the blacklist.",
+              "Critics reported Commerce Secretary Howard Lutnick took a softer line as concerns over AI chip sales grew."
+            ],
+            "rebuttal": "Supporters of the Commerce Department maintain that administrative listing decisions require extensive interagency evaluation."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Interagency processes dictate listing timelines and ultimate enforcement authority rests with designated departments.",
+            "why": "The Commerce Department holds primary jurisdiction over placing companies on federal entity control lists.",
+            "evidence": [
+              "Scott Bessent noted that while multiple agencies agreed on placing Megaspeed on the security list, the Commerce Department 'has the pen.'",
+              "Former CEO Jensen Huang was summoned directly by Congress to face questions about company practices."
+            ],
+            "rebuttal": "Critics counter that administrative procedural excuses do not justify months of inaction while sensitive technology was exported."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-13-2-senator-chris-van-hollen-launches-challe",
+      "date": "2026-11-13",
+      "topic": "Elections",
+      "headline": "Senator Chris Van Hollen Launches Challenge Against Chuck Schumer for Senate Democratic Leadership",
+      "points": [
+        "Senator Chris Van Hollen of Maryland announced a bid to challenge Senator Chuck Schumer for Senate majority leader.",
+        "Van Hollen argued that recent midterm election results demonstrated voter demand for change from the status quo.",
+        "Schumer maintains he retains sufficient support within the Democratic caucus to hold his position."
+      ],
+      "summary": "Following Democratic gains in the midterm elections, Maryland Senator Chris Van Hollen launched a challenge against incumbent leader Chuck Schumer for Senate majority leader. Supported by progressive figures like Senator Bernie Sanders and incoming members like Peggy Flanagan, Van Hollen argues the caucus requires fresh leadership. Schumer expressed confidence that he maintains enough votes within the Senate to remain leader. The race marks the first contested leadership challenge for Senate Democrats in three decades.",
+      "sides": {
+        "d": {
+          "take": "Van Hollen's supporters argue Democrats need new, progressive leadership that reflects voter desire for systemic change.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/12/nx-s1-6039357/chris-van-hollen-chuck-schumer-senate-majority-leader"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/13/chuck-schumer-democrat-party-control-ideology"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/senate/6219158-peggy-flanagan-backs-van-hollen/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans view the challenge as evidence of persistent internal factional divisions between Democratic establishment leaders and progressives.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/schumers-former-ally-mounts-leadership-challenge-democrats-face-rare-internal-power-struggle"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Chuck Schumer has served as the top Senate Democrat for years. Following the 2026 midterm elections, internal discussions intensified over the party's legislative strategy and leadership direction.",
+        "agree": [
+          "Chris Van Hollen is challenging Chuck Schumer for Senate Democratic leadership.",
+          "This is the first contested leadership race among Senate Democrats since 1994."
+        ],
+        "caseD": [
+          {
+            "claim": "Senate Democrats require new leadership to match electorate demands for change.",
+            "why": "Voters delivered midterms victories while signaling a desire to move past status-quo congressional strategy.",
+            "evidence": [
+              "Van Hollen stated voters sent a clear message in the midterm elections that they want 'change from the status quo.'",
+              "Senator-elect Peggy Flanagan declared that voters are demanding change and Democrats need new voices in leadership."
+            ],
+            "rebuttal": "Schumer allies argue that experienced leadership is critical for maintaining caucus unity and legislative effectiveness."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The leadership contest underscores ideological instability within the Democratic party.",
+            "why": "High-profile intraparty challenges signal internal discord over policy and direction.",
+            "evidence": [
+              "Reports note Van Hollen is mounting his challenge with backing from progressive Senator Bernie Sanders.",
+              "Coverage emphasizes this is the first internal power struggle for Senate Democratic leadership since 1994."
+            ],
+            "rebuttal": "Democrats state that internal leadership elections are standard democratic processes that foster accountability."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-13-3-trump-administration-shifts-toward-long-",
+      "date": "2026-11-13",
+      "topic": "Foreign Policy",
+      "headline": "Trump Administration Shifts Toward Long-Term Economic Pressure Campaign on Iran",
+      "points": [
+        "President Trump is moving toward a long-term economic pressure strategy regarding Iran rather than pursuing an immediate nuclear agreement.",
+        "Vice President Vance was redirected from Iran diplomatic talks to domestic anti-corruption efforts.",
+        "Israeli officials met with top U.S. intelligence leaders in Washington to discuss ongoing Middle East military operations."
+      ],
+      "summary": "The Trump administration is transitioning its Middle East posture toward a long-term economic pressure campaign against Iran, reducing urgency for a nuclear deal. President Trump reassigned Vice President Vance away from diplomatic negotiations regarding Tehran. Meanwhile, senior Israeli officials met with U.S. intelligence leaders in Washington to discuss regional military strategies. Treasury Secretary Scott Bessent also publicly denounced threats directed at American officials by Iranian leadership.",
+      "sides": {
+        "d": {
+          "take": "Democrats express concern over shifting diplomatic priorities and a lack of a clear long-term strategy for regional stability.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/13/nx-s1-6039160/trump-redirects-vance-from-iran-to-focus-on-combatting-fraud-in-democratic-led-states"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans support strong economic sanctions and firm opposition against threats posed by the Iranian regime.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/13/us/politics/trump-iran-strategy.html"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/13/us-news/scott-bessent-lets-loose-on-iran-after-he-was-moved-to-military-base/"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/iran-is-still-a-menace"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Tensions involving Iran, Israel, and the United States have driven volatile energy markets and regional security maneuvers. U.S. policy has oscillated between direct negotiation efforts and severe economic sanctions.",
+        "agree": [
+          "The U.S. administration is prioritizing economic pressure over immediate nuclear negotiations with Iran.",
+          "Israeli intelligence officials conducted high-level meetings with U.S. officials in Washington."
+        ],
+        "caseD": [
+          {
+            "claim": "Deprioritizing diplomatic agreements creates uncertainty and risks escalation in the region.",
+            "why": "Moving away from active negotiation leaves major regional security and nuclear issues unresolved.",
+            "evidence": [
+              "Reports indicate President Trump expressed little urgency in securing a nuclear agreement with Iran.",
+              "Vice President Vance was redirected away from Iran diplomatic focus."
+            ],
+            "rebuttal": "Administration supporters contend that maximum economic leverage is necessary before meaningful negotiations can occur."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Economic pressure and firm deterrence are the most effective responses to Iranian hostilites.",
+            "why": "Tehran actively threatens U.S. cabinet officials and destabilizes regional partners.",
+            "evidence": [
+              "Treasury Secretary Scott Bessent cited active death threats made against him by Iranian leadership.",
+              "Mossad Director Roman Gofman met with CIA Director John Ratcliffe to discuss strategy."
+            ],
+            "rebuttal": "Critics argue relying solely on economic sanctions without diplomatic engagement increases the risk of broader conflict."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-12-1-trump-directs-vance-away-from-iran-negot",
       "date": "2026-11-12",
