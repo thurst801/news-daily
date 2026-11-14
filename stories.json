@@ -1,6 +1,251 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "stories": [
+    {
+      "id": "2026-11-14-1-scrutiny-mounts-over-nvidia-leadership-a",
+      "date": "2026-11-14",
+      "topic": "Technology",
+      "headline": "Scrutiny Mounts Over Nvidia Leadership and Foreign Influence Concerns",
+      "points": [
+        "Former Nvidia CEO Jensen Huang resigned following reports regarding a relationship with an alleged Chinese intelligence asset.",
+        "Commerce Secretary Howard Lutnick faces bipartisan criticism over national security oversight and microchip export policies.",
+        "Lawmakers and commentators question whether executive decisions improperly influenced microchip exports to China.",
+        "Tech leaders, including Elon Musk, defended Huang's role in maintaining critical supply chain agreements."
+      ],
+      "summary": "Investigations into former Nvidia CEO Jensen Huang's extramarital affair with an alleged Chinese spy have drawn intense scrutiny from lawmakers and government officials. Public officials and regulators are examining whether Nvidia's sales of advanced AI chips to China were improperly influenced. Commerce Secretary Howard Lutnick has faced criticism from both parties for the administration's handling of national security risks. Meanwhile, tech figures like Elon Musk have defended Huang's role in driving the company's supply chain.",
+      "sides": {
+        "d": {
+          "take": "Democrats and intelligence officials emphasize national security risks, questioning why advanced AI technology was exported to China and calling for rigorous oversight.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/lutnick-commerce-china"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans criticize the administration's national security response while questioning whether financial ties between Nvidia and policy decisions compromised chip export controls.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/lutnick-commerce-china"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/did-payments-by-huang-s-nvidia-influence-trump-s-policy-on-chip-exports-to-china"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/trump-s-people-may-have-to-answer-for-jensen-huang"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist reporting highlights the bipartisan pressure on government officials and the broader trust crisis facing the AI industry following leadership scandals.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Following reports of an extramarital affair between Nvidia CEO Jensen Huang and a woman suspected of being a Chinese intelligence asset, Huang exited the company. U.S. intelligence agencies are assessing the extent of potential espionage and sensitive technology exposure. The scandal has sparked debate over U.S. microchip export controls and oversight by the Commerce Department.",
+        "agree": [
+          "Jensen Huang engaged in an extramarital affair with an individual believed by U.S. intelligence to be a Chinese asset.",
+          "The Commerce Department and federal regulators face heightened scrutiny over chip export controls and national security oversight."
+        ],
+        "caseD": [
+          {
+            "claim": "The affair and export decisions pose severe national security concerns.",
+            "why": "Unchecked exports of advanced technology to foreign adversaries could compromise American national security and intelligence.",
+            "evidence": [
+              "U.S. intelligence agencies believe the woman involved was a Chinese asset.",
+              "Several government agencies favored placing foreign entities on restriction lists for months."
+            ],
+            "rebuttal": "Supporters of Huang argue that his personal leadership was critical to maintaining tech supply chains through informal agreements."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Administration officials must answer for potential conflicts of interest and lax enforcement.",
+            "why": "Policy decisions loosening export restrictions to China coincided with financial payments and close executive relationships.",
+            "evidence": [
+              "National Review noted an undeniable correlation between Nvidia's payments and relaxed export restrictions.",
+              "Commerce Secretary Lutnick faces criticism from Capitol Hill Republicans and Cabinet members."
+            ],
+            "rebuttal": "Democrats contend that oversight should focus on systemic regulatory gaps and broader industry guardrails rather than partisan blame."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-14-2-democrats-secure-key-midterm-victories-a",
+      "date": "2026-11-14",
+      "topic": "Elections",
+      "headline": "Democrats Secure Key Midterm Victories as Parties Debate Future Strategies",
+      "points": [
+        "Democrat Jonathan Kreiss-Tomkins won the Alaska governor's race, marking the party's first win for the seat in nearly 30 years.",
+        "The victory gives Democrats control of 30 governorships nationwide following recent midterm election contests.",
+        "Republicans are analyzing the election fallout, with some suggesting potential 2028 contenders focus on future cycles.",
+        "Voters demonstrated ticket-splitting behavior by supporting Democratic candidates while approving conservative state ballot measures."
+      ],
+      "summary": "Democrats achieved significant wins in recent midterm elections, highlighted by Jonathan Kreiss-Tomkins winning the Alaska governor's race for the first time for his party in nearly three decades. The outcome brought the number of Democratic-held governorships to 30 nationwide. Following the losses, Republicans have begun reassessing their political strategy and messaging ahead of upcoming election cycles. Simultaneously, Democrats face internal discussions about legislative priorities and party leadership in the new Congress.",
+      "sides": {
+        "d": {
+          "take": "Democrats view the midterm outcomes as a mandate focused on economic populism, accountability, and pragmatic governance across diverse states.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans view the midterm results as a major setback, prompting discussions on strategic adjustments and candidate timing for future presidential cycles.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/homenews/campaign/6219720-gop-candidates-considering-2032/"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Analysis indicates voters demonstrated ticket-splitting behavior, backing Democratic candidates in key races while approving conservative ballot initiatives in several states.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/opinion/campaign/6219403-midterm-election-ticket-splitting-results/"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The recent midterm elections shifted political power in key federal and state races across the country. In Alaska, Democrat Jonathan Kreiss-Tomkins defeated three Republican opponents to claim the governorship, a seat Republicans had held for nearly 30 years. The election results have prompted both major parties to re-evaluate their political coalitions and legislative agendas.",
+        "agree": [
+          "Jonathan Kreiss-Tomkins won the Alaska gubernatorial election, expanding Democratic governorships to 30 nationwide.",
+          "The midterm election outcomes produced significant shifts in political dynamics across multiple states."
+        ],
+        "caseD": [
+          {
+            "claim": "Democratic candidates succeeded by focusing on economic populist messaging and broad voter appeal.",
+            "why": "Voters responded positively to platforms centered on living costs, accountability, and bipartisan engagement in traditionally conservative states.",
+            "evidence": [
+              "Kreiss-Tomkins ran an emphasis on bipartisanship in Alaska.",
+              "Incoming lawmakers across varied districts crafted campaigns around economic populism."
+            ],
+            "rebuttal": "Republicans contend that voters simultaneously passed conservative ballot initiatives on issues like school sports and voter identification."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The midterm results expose strategic vulnerabilities that require Republicans to recalibrate for future national races.",
+            "why": "Sweeping losses indicate a challenging political climate for current party leadership and potential presidential hopefuls.",
+            "evidence": [
+              "Republicans are actively discussing whether 2028 presidential contenders should sit out until 2032.",
+              "Party members highlighted internal friction following defeat in key races."
+            ],
+            "rebuttal": "Democrats maintain that their victories demonstrate public rejection of conservative policy proposals and current administration actions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-14-3-white-house-and-congressional-leaders-pr",
+      "date": "2026-11-14",
+      "topic": "Courts & Law",
+      "headline": "White House and Congressional Leaders Prepare for Standoff Over Subpoenas",
+      "points": [
+        "White House legal advisors warned Democrats that aggressive congressional subpoenas could face legal challenges.",
+        "Incoming House Democrats are preparing extensive oversight investigations into executive branch actions.",
+        "GOP lawmakers argue that proposed congressional inquiries risk becoming partisan harassment.",
+        "Legal experts are examining the constitutional boundaries of executive privilege and legislative oversight powers."
+      ],
+      "summary": "As Democrats prepare to assume committee leadership in Congress, the White House has laid out plans to aggressively counter anticipated oversight efforts. Executive branch attorneys issued warnings that overreaching subpoenas could cross legal boundaries. Democratic lawmakers insist oversight is a core constitutional responsibility to ensure executive accountability. The dispute sets up a high-stakes confrontation between Congress and the White House over investigative authority.",
+      "sides": {
+        "d": {
+          "take": "Democrats assert that congressional oversight is necessary to ensure executive branch accountability and investigate potential administrative overreach.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans and White House lawyers argue that Democratic inquiries risk becoming partisan persecution that exceeds legal authority.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Observers note that while impeachment and oversight carry strict legal standards, both parties face risks of overplaying their political positions.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/opinion/campaign/6218044-democrats-undermine-democratic-norms/"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Following shifts in congressional power, House Democrats announced plans to initiate broad investigations into executive branch decisions. In response, the White House legal counsel issued formal warnings regarding the scope and enforceability of legislative subpoenas. The standoff highlights long-standing constitutional tensions between legislative oversight powers and executive privilege.",
+        "agree": [
+          "House Democrats intend to launch oversight investigations into administration policies and actions.",
+          "The White House legal team has prepared legal arguments to challenge congressional subpoenas."
+        ],
+        "caseD": [
+          {
+            "claim": "Congressional oversight is essential for holding the administration accountable to the public.",
+            "why": "Lawmakers have a constitutional duty to investigate executive actions, potential conflicts of interest, and policy implementation.",
+            "evidence": [
+              "Representative Robert Garcia stated the White House response suggests attempts to hide information.",
+              "The White House quietly prepared an effort to thwart Democratic oversight efforts."
+            ],
+            "rebuttal": "Republicans argue that aggressive subpoenas cross into political harassment and potentially unlawful overreach."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Overreaching subpoenas and politically motivated inquiries abuse legislative authority.",
+            "why": "Subpoenas issued primarily for political persecution rather than legitimate legislative purposes undermine constitutional norms.",
+            "evidence": [
+              "White House lawyer William Scharf warned that abusive subpoenas could cross into criminality.",
+              "GOP lawmakers warned Democrats against choosing persecution over policy."
+            ],
+            "rebuttal": "Democrats maintain that oversight is a standard, lawful legislative function aimed at protecting public interest."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-13-1-nvidia-ceo-resigns-following-personal-sc",
       "date": "2026-11-13",
