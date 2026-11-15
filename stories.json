@@ -1,6 +1,410 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "stories": [
+    {
+      "id": "2026-11-15-1-faa-outage-triggers-political-debate-ove",
+      "date": "2026-11-15",
+      "topic": "Economy",
+      "headline": "FAA Outage Triggers Political Debate Over Air Traffic Control Funding",
+      "points": [
+        "A nationwide FAA ground stop halted U.S. flights due to equipment failure during maintenance.",
+        "Transportation Secretary Sean Duffy requested $50 billion for infrastructure upgrades while blaming legacy equipment and past administrations.",
+        "Democrats countered that the administration has failed to spend previously authorized modernization funds."
+      ],
+      "summary": "An hours-long nationwide flight ground stop caused widespread air travel disruption across the United States. Transportation Secretary Sean Duffy attributed the failure to telecommunications maintenance overloading outdated equipment and urged Congress to provide $50 billion in infrastructure funding. Democrats pushed back, arguing the administration has not effectively deployed funds already provided by Congress. Meanwhile, officials confirmed systems have returned to full operation while investigations into contractors and equipment continue.",
+      "sides": {
+        "d": {
+          "take": "Democrats contend that the Trump administration has failed to properly deploy existing federal funds already allocated for air traffic control upgrades.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/live/2026/11/14/us/faa-nationwide-ground-stop-flights/democrats-congress-faa"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Trump administration officials blame legacy equipment, past administrations, and insufficient congressional funding for the system failure.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6221144-live-trump-cabinet-faa-nvidia-alaska/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Transportation officials stated that routine maintenance on legacy telecommunications infrastructure caused an unexpected overload that grounded flights.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/faa-ground-stop-outage-update"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "A nationwide FAA ground stop interrupted air travel across the U.S. following telecommunications failures. Transportation Secretary Sean Duffy stated that routine maintenance on legacy copper wire systems triggered an equipment overload. The event sparked political arguments over accountability and the funding required to modernize national air traffic infrastructure.",
+        "agree": [
+          "A nationwide ground stop occurred due to telecommunications issues during routine maintenance.",
+          "Air traffic control systems rely on aging infrastructure that requires technical modernization.",
+          "FAA operations were subsequently restored to full service."
+        ],
+        "caseD": [
+          {
+            "claim": "The executive branch has mismanaged existing infrastructure resources.",
+            "why": "Current administration officials should utilize previously approved funds before demanding tens of billions in additional congressional money.",
+            "evidence": [
+              "Senator Chris Van Hollen stated the administration has not properly invested funds already given to implement upgrades.",
+              "Democrats opposed the immediate demand for $50 billion in new funding."
+            ],
+            "rebuttal": "Administration officials contend that legacy contracts and long-standing equipment deficits require major new capital outlays from Congress."
+          },
+          {
+            "claim": "Prior administration management is not the primary cause of operational failures.",
+            "why": "Current executive leadership must take direct responsibility for real-time operational disruptions rather than shifting blame to predecessors.",
+            "evidence": [
+              "Former Transportation Secretary Pete Buttigieg publicly criticized the administration's handling of the flight chaos.",
+              "Democratic lawmakers planned oversight measures to hold the current administration accountable."
+            ],
+            "rebuttal": "Republicans argue that decades-old federal contracts with private vendors like L3Harris limit immediate administration flexibility."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Congress has persistently underfunded national air traffic control modernization.",
+            "why": "Outdated equipment cannot handle current flight volumes without substantial long-term federal investments.",
+            "evidence": [
+              "Transportation Secretary Sean Duffy called on Congress for $50 billion to upgrade aging systems.",
+              "Duffy stated on Sunday news programs that congressional funding shortages contributed to the system breakdown."
+            ],
+            "rebuttal": "Democrats argue that Congress has already provided significant funding that executive agencies have failed to expend efficiently."
+          },
+          {
+            "claim": "The system breakdown was caused by legacy hardware overloads, not administrative neglect.",
+            "why": "Maintenance on decades-old infrastructure created an unexpected overload that requires systematic technical upgrades.",
+            "evidence": [
+              "Officials determined the outage was caused by old equipment overloading during telecom upgrade work rather than a cyberattack.",
+              "The FAA confirmed that maintenance on legacy copper wire networks triggered the communication failure."
+            ],
+            "rebuttal": "Democrats maintain that proper administrative management would have mitigated risks during routine infrastructure maintenance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-2-democrats-chart-strategy-and-address-lea",
+      "date": "2026-11-15",
+      "topic": "Elections",
+      "headline": "Democrats Chart Strategy and Address Leadership Contests After Midterm Victories",
+      "points": [
+        "Democrats held strategy conferences following midterm gains in state legislatures and congressional seats.",
+        "Senator Chris Van Hollen launched a challenge against Chuck Schumer for Senate Democratic leadership.",
+        "Party factions debated policy focus, balancing accountability initiatives against long-term presidential strategy."
+      ],
+      "summary": "Following midterm election victories, Democratic leaders gathered in Denver to discuss policy goals and party strategy. The election results shifted legislative control in multiple states and expanded Democratic leverage in federal and state offices. Concurrently, internal leadership contests emerged, with Senator Chris Van Hollen challenging Chuck Schumer for Senate Democratic leader. Meanwhile, progressive groups and party factions began debating policy direction and potential 2028 presidential candidates.",
+      "sides": {
+        "d": {
+          "take": "Democrats view their midterm gains as a mandate to expand access to healthcare, address affordability, and reform party leadership.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/14/nx-s1-6037777/democrats-midterms-whats-next-conference"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/15/us/politics/van-hollen-schumer-democrats-majority-leader.html"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/15/us-news/van-hollen-boasts-he-has-very-open-lane-take-senate-leadership-from-schumer/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans maintain focus on internal caucus unity while highlighting divisions between progressive and establishment factions within the Democratic Party.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/14/us-news/nycs-dsa-chapter-votes-to-target-replacing-hochul-and-other-establishment-dems-push-aoc-for-president/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The 2026 midterm elections resulted in legislative shifts, ending Republican control in several state legislatures and giving Democrats full governorship control in key border states. Following these results, Democratic lawmakers met to establish legislative agendas and organize internal party leadership elections. Senator Chris Van Hollen publicly declared his campaign to unseat long-time leader Chuck Schumer in the Senate.",
+        "agree": [
+          "Midterm election results changed the party composition of several state legislatures and congressional delegations.",
+          "Leadership elections are taking place within congressional caucuses.",
+          "The Democratic Party held national meetings to determine upcoming legislative and campaign strategies."
+        ],
+        "caseD": [
+          {
+            "claim": "Senate leadership requires new direction to maximize legislative effectiveness.",
+            "why": "Fresh leadership can better capitalize on midterm momentum and unite caucus members behind policy goals.",
+            "evidence": [
+              "Senator Chris Van Hollen stated he has a wide-open path to unseat Chuck Schumer as leader.",
+              "Van Hollen claimed several senators previously thought to support Schumer have pledged support to his challenge."
+            ],
+            "rebuttal": "Allies of current leadership argue that experienced legislative stewards are necessary to navigate narrow margins and complex procedural battles."
+          },
+          {
+            "claim": "Midterm victories provide a clear agenda focused on healthcare and affordability.",
+            "why": "Voters selected Democratic candidates to expand public services and protect legislative access to core benefits.",
+            "evidence": [
+              "State legislative agendas following the midterms emphasized increasing healthcare access and limiting school voucher expansion.",
+              "Party leaders at the Denver conference emphasized quick delivery on affordability for working families."
+            ],
+            "rebuttal": "Opponents argue that progressive policy proposals do not align with broader electorate preferences in competitive districts."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Internal Democratic disputes highlight persistent ideological divisions between establishment and progressive wings.",
+            "why": "Factional struggles over leadership and 2028 priorities create policy instability within the opposition party.",
+            "evidence": [
+              "The Democratic Socialists of America passed resolutions urging AOC to run for president while targeting establishment Democrats.",
+              "Disagreements emerged at Democratic strategy meetings over prioritizing public accountability versus economic policy."
+            ],
+            "rebuttal": "Democrats argue that robust policy debate demonstrates party vitality and engagement with diverse voter coalitions."
+          },
+          {
+            "claim": "Conservative leadership remains organized to counter state and federal Democratic initiatives.",
+            "why": "Republican lawmakers continue to maintain strong legislative caucuses and caucus unity.",
+            "evidence": [
+              "Senate Republicans reelected John Thune as leader by acclamation following closed-door caucus discussions.",
+              "Republicans retain strong voting blocs to challenge Democratic legislative priorities in Congress."
+            ],
+            "rebuttal": "Democrats contend that recent electoral victories demonstrate voters' rejection of conservative legislative agendas."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-3-federal-judge-temporarily-halts-trump-ad",
+      "date": "2026-11-15",
+      "topic": "Courts & Law",
+      "headline": "Federal Judge Temporarily Halts Trump Administration DC Golf Course Redevelopment",
+      "points": [
+        "A federal judge issued a temporary restraining order blocking work at East Potomac Golf Links in Washington, D.C.",
+        "The administration planned to close the public site for 15 months to construct a championship golf course.",
+        "President Trump criticized the court ruling and announced plans to file an appeal."
+      ],
+      "summary": "U.S. District Judge Ana C. Reyes issued a temporary restraining order blocking the Trump administration from closing and redeveloping East Potomac Golf Links in Washington, D.C. The administration sought to convert the public golf facility into a championship-style course over a 15-month period. President Trump criticized the ruling, describing the decision as unjustified, and confirmed the administration will appeal. The temporary delay allows legal challenges regarding control and operation of the historic public park to proceed.",
+      "sides": {
+        "d": {
+          "take": "Critics and legal challengers argue the administration lacks authority to summarily close public parkland for redevelopment projects.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "President Trump and administration officials argue the injunction is an unfair judicial intrusion into executive efforts to upgrade public facilities.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/15/us-news/trump-blocked-from-moving-ahead-on-washington-public-golf-course-redevelopment-judge-orders/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "The federal court issued a temporary delay to review litigation regarding operational responsibility for the course during legal proceedings.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/14/us/politics/trump-east-potomac-golf-course.html"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The Trump administration initiated plans to redevelop East Potomac Golf Links, a historic public golf course in Washington, D.C., into a championship facility. Opponents filed lawsuits to prevent the closure of the park, alleging procedural and jurisdictional violations. The dispute reached federal court shortly before the course was scheduled to shut down for construction.",
+        "agree": [
+          "A federal judge issued a temporary restraining order delaying work at the golf course.",
+          "The proposed project involves a 15-month closure to renovate the public facility into a championship course.",
+          "The order is subject to ongoing litigation and appeal."
+        ],
+        "caseD": [
+          {
+            "claim": "Public parks must be protected from unauthorized executive redevelopments.",
+            "why": "Executive decisions involving historic public lands require adherence to legal and regulatory administrative procedures.",
+            "evidence": [
+              "Judge Ana C. Reyes ordered a delay to work at East Potomac Golf Links while litigation proceeds.",
+              "Planners sought to halt the immediate 15-month closure of the public park land."
+            ],
+            "rebuttal": "Administration officials contend the project constitutes a beneficial modernization of underutilized public property."
+          },
+          {
+            "claim": "Judicial oversight is necessary to ensure legal compliance by executive agencies.",
+            "why": "Courts serve as an essential check against improper land-use actions taken without proper authorization.",
+            "evidence": [
+              "Lawsuits challenging the project prompted judicial intervention prior to the scheduled closure date.",
+              "The court ruled the administration would not operate the course while legal challenges continue."
+            ],
+            "rebuttal": "Supporters of the president argue that judicial stays unduly delay routine federal property improvements."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The judicial injunction unnecessarily stalls planned upgrades to federal facilities.",
+            "why": "Restraining orders prevent federal agencies from executing infrastructure and recreational site improvements efficiently.",
+            "evidence": [
+              "President Trump publicly criticized the judge for halting the Washington golf project.",
+              "The administration announced it will immediately appeal the temporary restraining order."
+            ],
+            "rebuttal": "Challengers maintain that speed should not take priority over statutory requirements for public land management."
+          },
+          {
+            "claim": "Executive management of federal properties falls within administrative discretion.",
+            "why": "The executive branch has authority to upgrade and redevelop federally owned recreation facilities.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "The administration planned to redevelop the East Potomac course into a championship facility."
+            ],
+            "rebuttal": "Opponents argue that executive discretion does not exempt public park management from court review and land-use laws."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-15-4-treasury-department-questions-nvidia-fin",
+      "date": "2026-11-15",
+      "topic": "Economy",
+      "headline": "Treasury Department Questions Nvidia Financials Following Stock Drop and Executive Resignation",
+      "points": [
+        "Treasury Secretary Scott Bessent questioned whether Nvidia's earnings were improperly inflated by China chip sales.",
+        "Nvidia stock plunged nearly 30% following the resignation of CEO Jensen Huang amid executive conduct concerns.",
+        "Treasury officials urged Nvidia's board to hire an external CEO to oversee governance reforms."
+      ],
+      "summary": "Treasury Secretary Scott Bessent raised public concerns regarding Nvidia's reported earnings, suggesting sales to China may have improperly inflated financial metrics. The semiconductor giant experienced a nearly 30% drop in stock value following the resignation of CEO Jensen Huang amid a corporate scandal and security concerns. Bessent recommended that Nvidia's board select an external candidate as the next chief executive to restore confidence. The market decline has impacted retirement funds heavily invested in major index products tied to the technology firm.",
+      "sides": {
+        "d": {
+          "take": "Lawmakers and policy experts advocate for strict regulatory oversight to address security risks, executive conduct, and market concentration in the technology sector.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/ai-trust-nvidia-tech-stocks"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/14/lutnick-commerce-china"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Treasury officials call for immediate corporate governance changes at Nvidia to protect national security interests and market stability.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/15/bessent-nvidia-earnings-china-chip-sales-ceo"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/15/us-news/treasury-secretary-scott-bessent-says-nvidia-should-look-outside-the-company-for-jensen-huangs-successor/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Financial analysts note that Nvidia's sharp stock decline has broader implications for retail retirement accounts due to its heavy weighting in market index funds.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/15/nvidia-stocks-401k-retirement-accounts"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Nvidia, a key provider of artificial intelligence microchips, faced significant corporate and regulatory turmoil after chief executive Jensen Huang resigned. The situation triggered scrutiny from federal executive departments regarding supply chain security and international trade rules. Concerns escalated as federal officials publicly questioned the company's financial reporting and executive oversight.",
+        "agree": [
+          "Nvidia's stock value fell significantly over a short period.",
+          "Chief Executive Jensen Huang resigned from his position at the company.",
+          "Nvidia maintains a large weighting in broad market index funds affecting retail investors."
+        ],
+        "caseD": [
+          {
+            "claim": "Systemic corporate and national security oversight of major technology firms is essential.",
+            "why": "High market concentration in key AI chipmakers creates widespread economic exposure when governance fails.",
+            "evidence": [
+              "Nvidia's 30% stock plunge dragged down retirement savings in popular index funds.",
+              "Bipartisan lawmakers called for heightened scrutiny of tech executive conduct and foreign exposure."
+            ],
+            "rebuttal": "Free-market advocates argue that excessive government intervention in private corporate governance harms market innovation."
+          },
+          {
+            "claim": "Conflict-of-interest and national security risks in technology supply chains must be regulated.",
+            "why": "Unchecked trade practices by dominant chip manufacturers threaten both domestic financial markets and international security.",
+            "evidence": [
+              "Commerce Secretary Lutnick and tech executives faced scrutiny over potential technology exposure to foreign adversaries.",
+              "AI industry leaders faced expanding Congressional interest in establishing statutory guardrails."
+            ],
+            "rebuttal": "Industry proponents argue that market competition and board-level governance are best suited to address internal corporate issues."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Nvidia must replace internal leadership with an outside chief executive to restore market integrity.",
+            "why": "External leadership is necessary to ensure full accounting transparency and rectify governance failures.",
+            "evidence": [
+              "Treasury Secretary Scott Bessent urged Nvidia to hire an outsider as CEO.",
+              "Bessent stated on Fox News that the firm requires a dramatic shakeup by its board."
+            ],
+            "rebuttal": "Critics suggest that public statements by government officials targeting specific publicly traded companies can destabilize financial markets."
+          },
+          {
+            "claim": "Potential unauthorized technology sales to foreign adversaries require thorough financial and security audits.",
+            "why": "Tech firms must be held accountable if revenue figures were improperly boosted through non-compliant sales to restricted markets.",
+            "evidence": [
+              "Secretary Bessent questioned whether Nvidia inflated earnings through suspect sales to China.",
+              "Nvidia stock experienced steep losses following revelations of foreign espionage concerns and leadership resignations."
+            ],
+            "rebuttal": "Regulatory critics argue that financial investigations should be conducted through established administrative and judicial channels rather than public declarations."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-14-1-scrutiny-mounts-over-nvidia-leadership-a",
       "date": "2026-11-14",
