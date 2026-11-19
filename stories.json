@@ -1,6 +1,294 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-19",
   "stories": [
+    {
+      "id": "2026-11-19-1-trump-meets-with-xi-and-putin-in-histori",
+      "date": "2026-11-19",
+      "topic": "Foreign Policy",
+      "headline": "Trump Meets With Xi and Putin in Historic Trilateral Summit in China",
+      "points": [
+        "President Trump met with Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China.",
+        "The leaders issued a joint declaration of peace addressing global stability, Ukraine, and Iran.",
+        "Observers noted a lack of major policy breakthroughs despite the historic nature of the gathering.",
+        "The meeting highlights shifting global dynamics following recent U.S. midterm elections."
+      ],
+      "summary": "President Donald Trump held a historic trilateral summit in Shenzhen, China, alongside Chinese President Xi Jinping and Russian President Vladimir Putin. The leaders issued a joint declaration of peace touching on major international issues, including the conflicts in Ukraine and Iran. However, news outlets reported that the summit produced few concrete agreements or policy breakthroughs. The gathering comes as world powers navigate changing political landscapes and ongoing global tensions.",
+      "sides": {
+        "d": {
+          "take": "Democrats characterized the summit as a public relations event that yielded no tangible benefits for national security and allowed autocratic leaders to project power.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/policy/international/6231312-clinton-trump-xi-putin/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans framed the meeting as a proactive diplomatic effort by President Trump to engage key world leaders and foster global peace.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/19/us-news/trump-calls-china-trip-great-and-highly-consequential-announces-friday-news-conference/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Nonpartisan observers noted that while the summit carried significant visual impact, it was high on spectacle and short on substantive policy achievements.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The Shenzhen gathering marked the first formal trilateral meeting between the leaders of the United States, China, and Russia. It occurred amidst ongoing military conflicts in Eastern Europe and the Middle East, as well as economic competition among the three nations.",
+        "agree": [
+          "President Trump, President Xi, and President Putin met in Shenzhen, China, and released a joint declaration of peace."
+        ],
+        "caseD": [
+          {
+            "claim": "The summit served foreign interests without advancing U.S. strategic goals.",
+            "why": "Engaging in high-profile meetings without pre-negotiated policy gains gives foreign adversaries political leverage without securing meaningful concessions.",
+            "evidence": [
+              "Hillary Clinton stated that foreign leaders manipulate the administration during high-level meetings.",
+              "Coverage noted that no binding agreements were reached on nuclear control or the conflict in Ukraine."
+            ],
+            "rebuttal": "Republicans contend that direct communication between major world powers is essential for preventing conflict escalation."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Direct diplomatic engagement demonstrates leadership and opens pathways for peace.",
+            "why": "Personal diplomatic outreach creates opportunities to de-escalate international tensions and establish direct lines of communication.",
+            "evidence": [
+              "President Trump described the summit as consequential and announced a joint declaration of peace.",
+              "Coverage noted the leaders issued a joint statement addressing global security and stability."
+            ],
+            "rebuttal": "Democrats argue that symbolic declarations without enforceable terms do not solve complex foreign policy challenges."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-19-2-senate-republicans-block-resolution-to-l",
+      "date": "2026-11-19",
+      "topic": "Foreign Policy",
+      "headline": "Senate Republicans Block Resolution to Limit U.S. War Powers in Iran",
+      "points": [
+        "The Senate voted 48-51 against a War Powers resolution aimed at ending U.S. military involvement in Iran.",
+        "Three Republican senators joined nearly all Senate Democrats in voting for the measure.",
+        "President Trump stated he will not be rushed into making further military decisions regarding Iran.",
+        "Democrats argued the vote ignored voter opposition to the foreign conflict following midterm elections."
+      ],
+      "summary": "Senate Republicans blocked a Democratic-backed War Powers resolution that sought to direct President Trump to end U.S. military operations in Iran. The 48-51 vote failed after three Republicans crossed party lines to support the legislation. Meanwhile, President Trump indicated he would refrain from making additional determinations about the conflict until next year. The vote reflects ongoing congressional debate over the scope of executive authority in foreign military actions.",
+      "sides": {
+        "d": {
+          "take": "Democrats argue that Congress must enforce its constitutional authority over war powers and withdraw U.S. troops from an unsanctioned foreign war.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6229360-live-updates-trump-xi-putin-china-summit-crypto-alaska-tech-outages/"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/senate/6231044-senate-republicans-war-powers-resolution-vote-fails/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans argue that imposing statutory limits on the commander-in-chief during an active conflict undermines national defense and executive flexibility.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/19/us/politics/senate-iran-war-powers-trump.html"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The War Powers Resolution was originally designed to give Congress oversight over long-term presidential military engagements abroad. Following elevated military action in Iran, congressional Democrats mounted multiple legislative attempts to restrict executive authority regarding the deployment of troops.",
+        "agree": [
+          "The Senate rejected a resolution to halt U.S. military actions in Iran by a vote of 48 to 51."
+        ],
+        "caseD": [
+          {
+            "claim": "Congress has a constitutional responsibility to curb executive war actions.",
+            "why": "Allowing military engagements to continue without explicit legislative approval bypasses constitutional checks and balances.",
+            "evidence": [
+              "Nearly all Democrats and three Republicans supported the measure in a 48-51 vote.",
+              "Proponents noted strong public opposition to ongoing foreign conflicts during recent elections."
+            ],
+            "rebuttal": "Republicans respond that restricting presidential authority limits necessary defense options during active military operations."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Legislative constraints hinder the president's ability to conduct national defense.",
+            "why": "Setting statutory deadlines or restrictions on military operations weakens strategic leverage against adversaries.",
+            "evidence": [
+              "Senate Republicans successfully voted to block the resolution on a 48-51 margin.",
+              "President Trump stated he would refrain from rushed military determinations regarding Iran."
+            ],
+            "rebuttal": "Democrats contend that unchecked military deployments lead to costly foreign engagements without clear end goals."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-19-3-department-of-justice-assigns-prosecutor",
+      "date": "2026-11-19",
+      "topic": "Courts & Law",
+      "headline": "Department of Justice Assigns Prosecutor Bill Essayli to Mar-a-Lago Inquiry",
+      "points": [
+        "The Department of Justice appointed prosecutor Bill Essayli to oversee an inquiry in Florida.",
+        "The inquiry focuses on the 2022 search of Donald Trump's Mar-a-Lago estate and the actions of Special Counsel Jack Smith.",
+        "Essayli is described as a staunch political ally of President Trump.",
+        "The decision has drawn differing reactions regarding judicial independence and administrative oversight."
+      ],
+      "summary": "The Department of Justice appointed prosecutor Bill Essayli to lead a criminal inquiry into the 2022 search of Donald Trump's Mar-a-Lago estate and the handling of the classified documents case by Special Counsel Jack Smith. Essayli, a California prosecutor and ally of President Trump, will manage the proceedings in Florida. Critics view the move as an attempt to target former special prosecutors, while supporters argue it provides necessary oversight of past federal law enforcement actions.",
+      "sides": {
+        "d": {
+          "take": "Democrats criticize the appointment, describing it as a partisan attempt to use the Department of Justice to retaliate against independent investigators.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/19/bill-essayli-mar-a-lago-raid"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/19/us/politics/trump-mar-a-lago-search-bill-essayli.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans support the inquiry, arguing that prior law enforcement actions and special counsel operations must face thorough review and accountability.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/19/bill-essayli-mar-a-lago-raid"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/19/us/politics/trump-mar-a-lago-search-bill-essayli.html"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "In August 2022, federal agents executed a search warrant at Donald Trump's Mar-a-Lago residence, leading to an indictment managed by Special Counsel Jack Smith regarding classified government records. Following political shifts, the Department of Justice initiated reviews into how those federal investigations were conducted.",
+        "agree": [
+          "Bill Essayli was assigned by the Department of Justice to oversee a criminal inquiry into the 2022 Mar-a-Lago search."
+        ],
+        "caseD": [
+          {
+            "claim": "Appointing political allies to review past cases politicizes the Justice Department.",
+            "why": "Using federal prosecutorial power to investigate previous special counsels creates a dangerous precedent of political retribution.",
+            "evidence": [
+              "Bill Essayli was assigned to lead the Florida-based criminal inquiry into the Mar-a-Lago investigation.",
+              "Reports described the appointment as part of a broader review targeting former special counsel Jack Smith."
+            ],
+            "rebuttal": "Republicans state that special counsels and federal law enforcement agencies are not exempt from scrutiny."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Federal law enforcement actions require independent oversight and review.",
+            "why": "Investigating past high-profile searches ensures that prosecutorial standards were strictly upheld without bias.",
+            "evidence": [
+              "The Justice Department dispatched a dedicated prosecutor to examine the handling of the 2022 search.",
+              "The inquiry directly addresses the legal procedures used during the classified documents case."
+            ],
+            "rebuttal": "Democrats argue that re-examining closed investigations via partisan figures erodes trust in the rule of law."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-19-4-meta-reconsiders-2030-climate-goals-foll",
+      "date": "2026-11-19",
+      "topic": "Environment",
+      "headline": "Meta Reconsiders 2030 Climate Goals Following AI-Driven Rise in Emissions",
+      "points": [
+        "Meta reported a 45% surge in greenhouse gas emissions over the past year.",
+        "The emissions increase is linked to massive power consumption from expanding artificial intelligence infrastructure.",
+        "The company announced it is re-evaluating its target to reach net-zero emissions by 2030.",
+        "The situation highlights broader trade-offs between rapid AI development and environmental sustainability."
+      ],
+      "summary": "Technology giant Meta announced it is reconsidering its target to achieve net-zero carbon emissions by 2030 following a 45% increase in greenhouse gas emissions last year. The surge in emissions stems from the rapid construction and power demands of data centers built to support artificial intelligence. The move underscores growing challenges across the technology industry as companies balance sustainability commitments against the energy requirements of AI growth. Policymakers and environmental groups are tracking the trade-offs between tech expansion and environmental goals.",
+      "sides": {
+        "d": {
+          "take": "Environmental advocates argue that major technology firms must honor their climate commitments and mitigate the environmental impact of expanding AI data centers.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/19/meta-ai-emissions-rise"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Business and tech proponents argue that expanding energy and computing infrastructure is crucial for maintaining economic competitiveness and advancing technological innovation.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-washington.html"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/19/meta-ai-emissions-rise"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "In recent years, major corporations set voluntary carbon-reduction targets aimed at reaching net-zero emissions by 2030. Concurrently, the surge in generative AI technology required a vast expansion of physical data centers, leading to unprecedented increases in electricity consumption for tech firms.",
+        "agree": [
+          "Meta's corporate emissions grew by 45% last year due to AI infrastructure, leading the company to review its 2030 net-zero climate goal."
+        ],
+        "caseD": [
+          {
+            "claim": "Corporate sustainability targets should not be abandoned for tech expansion.",
+            "why": "Allowing emissions to rise sharply threatens broader national and global efforts to combat climate change.",
+            "evidence": [
+              "Meta's sustainability report showed a 45% surge in greenhouse gas emissions over the prior year.",
+              "Meta explicitly began reviewing its commitment to reach net-zero emissions by 2030."
+            ],
+            "rebuttal": "Industry leaders argue that AI technologies will eventually improve energy efficiency across power grids and industries."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Rapid investment in computing infrastructure is necessary to maintain innovation.",
+            "why": "Restricting data center growth or enforcing rigid emissions limits could slow economic growth and technological leadership.",
+            "evidence": [
+              "Tech companies are making significant investments in computational infrastructure to advance AI.",
+              "Policymakers and industry leaders acknowledge high demand for data center capacity."
+            ],
+            "rebuttal": "Critics contend that unregulated energy consumption exacerbates environmental degradation without clear accountability."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-16-1-united-states-imposes-new-remote-access-",
       "date": "2026-11-16",
