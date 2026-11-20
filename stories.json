@@ -1,6 +1,282 @@
 {
-  "updated": "2026-11-19",
+  "updated": "2026-11-20",
   "stories": [
+    {
+      "id": "2026-11-20-1-senate-passes-bipartisan-energy-permitti",
+      "date": "2026-11-20",
+      "topic": "Environment",
+      "headline": "Senate Passes Bipartisan Energy Permitting Bill for Data Centers and Power Plants",
+      "points": [
+        "The Senate passed the Bipartisan American Affordability and Jobs Act to speed up energy project approvals.",
+        "The legislation aims to address rising electricity demand driven by artificial intelligence and data center expansions.",
+        "Environmental groups and progressive lawmakers criticize the removal of legal guardrails and environmental reviews."
+      ],
+      "summary": "The U.S. Senate passed a bipartisan energy bill designed to accelerate approval processes for power plants and artificial intelligence data centers. Proponents argue the legislation is necessary to keep pace with soaring energy demand and lower consumer costs. Opponents, including environmental organizations, warn that removing regulatory guardrails could compromise climate goals. The bill now heads to the House of Representatives for further consideration.",
+      "sides": {
+        "d": {
+          "take": "Some Democrats supported bipartisan provisions to reduce energy costs, while environmental groups and progressive lawmakers warned that removing regulatory protections harms climate goals.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill"
+            ],
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans supported passing the measure to fast-track energy infrastructure, boost overall power production, and ensure data centers pay for their energy footprint.",
+          "src": [
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/20/us-news/senate-approves-bipartisan-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist reporting highlighted that the Senate passed the bill as Americans face rising energy costs and growing power demand driven by artificial intelligence.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "As artificial intelligence technology grows rapidly, energy demand for data centers and supporting power infrastructure has increased significantly. Congress introduced the Bipartisan American Affordability and Jobs Act to streamline federal permitting processes. The bill seeks to accelerate project approvals while requiring major energy consumers like data centers to contribute to utility costs.",
+        "agree": [
+          "Energy demand and costs have risen due to technological developments like AI.",
+          "The bill passed the Senate with bipartisan support and moves to the House."
+        ],
+        "caseD": [
+          {
+            "claim": "Fast-tracking energy projects by cutting regulations damages environmental protection.",
+            "why": "Removing environmental and legal guardrails undermines efforts to tackle the climate crisis.",
+            "evidence": [
+              "Environmental groups expressed strong opposition to removing legal guardrails in the bill.",
+              "Critics argue fast-tracked approvals eliminate vital checks on polluting projects."
+            ],
+            "rebuttal": "Supporters argue that streamlining permits is essential to build clean energy projects quickly and meet soaring power demands."
+          },
+          {
+            "claim": "Data center growth risks overburdening local power grids.",
+            "why": "Expanding infrastructure without thorough oversight risks increasing consumer costs and power instability.",
+            "evidence": [
+              "Increased demand from AI requires faster utility expansion across states.",
+              "Lawmakers cited rising energy costs as a primary concern for consumers."
+            ],
+            "rebuttal": "Proponents note the legislation forces data centers to pay for their energy footprint, protecting everyday consumers."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Accelerating permitting is necessary to prevent energy shortages and lower consumer costs.",
+            "why": "Excessive regulatory delays slow down energy expansion and drive up utility prices.",
+            "evidence": [
+              "The bill speeds up approval processes for data centers and power plants.",
+              "Rising energy costs are pressuring household budgets across the country."
+            ],
+            "rebuttal": "Opponents contend that waiving environmental reviews harms public health and long-term sustainability."
+          },
+          {
+            "claim": "Data centers must contribute directly to local power grid infrastructure costs.",
+            "why": "Ensuring major commercial energy users pay their fair share prevents cost shifting onto everyday taxpayers.",
+            "evidence": [
+              "The bill includes provisions requiring data centers to pay for energy usage.",
+              "The legislation was structured to address affordability alongside infrastructure expansion."
+            ],
+            "rebuttal": "Critics warn that even with funding provisions, fast-tracking construction bypasses necessary community review."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-2-trump-holds-summit-with-russian-and-chin",
+      "date": "2026-11-20",
+      "topic": "Foreign Policy",
+      "headline": "Trump Holds Summit with Russian and Chinese Leaders Without Major Agreements",
+      "points": [
+        "President Trump met with Russian President Vladimir Putin and Chinese President Xi Jinping during a trilateral summit.",
+        "The meeting produced joint statements on unity but resulted in no binding treaties regarding war or nuclear weapons.",
+        "Critical topics such as artificial intelligence competition were omitted from the official agenda."
+      ],
+      "summary": "President Trump hosted a high-profile trilateral summit with Russian President Vladimir Putin and Chinese President Xi Jinping. While Trump praised the meeting as a significant step for international relations, commentators and reports noted a lack of concrete deliverables. No treaties concerning regional conflicts or nuclear arsenals were reached, and artificial intelligence was left off the agenda. Analysts across the political spectrum characterized the gathering as heavy on diplomatic spectacle but light on substantive policy breakthroughs.",
+      "sides": {
+        "d": {
+          "take": "Democrats and critics characterized the summit as a photo opportunity that delivered few actual results or formal commitments on pressing security issues.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/20/podcasts/the-daily/trump-putin-xi-summit-ai.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Trump and his administration touted the summit as a highly consequential effort to foster open dialogue and project international leadership.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist analysts described the meeting as high on visual spectacle but short on concrete agreements or policy outcomes.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cwn70vrjlg8ro?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "President Trump convened a rare trilateral summit with the leaders of Russia and China following a trip to Asia. The high-level gathering was intended to address global security concerns and diplomatic ties among the three powers. However, major global challenges remain unaddressed following the conclusion of the talks.",
+        "agree": [
+          "President Trump, Vladimir Putin, and Xi Jinping participated in a trilateral summit.",
+          "The leaders issued joint statements but did not sign formal treaties on war or nuclear weapons."
+        ],
+        "caseD": [
+          {
+            "claim": "The summit failed to produce meaningful foreign policy achievements.",
+            "why": "Holding high-level talks without securing treaties on critical issues leaves key global conflicts unresolved.",
+            "evidence": [
+              "No treaties regarding war or nuclear weapons were signed during the summit.",
+              "Key topics like the artificial intelligence race were left entirely off the agenda."
+            ],
+            "rebuttal": "Supporters maintain that establishing open communication between superpower leaders is a victory in itself."
+          },
+          {
+            "claim": "The meeting served primarily as a public relations event rather than effective diplomacy.",
+            "why": "Grand spectacles without concrete policy commitments do not enhance long-term national security.",
+            "evidence": [
+              "Reports noted the press conference offered little beyond vague statements of unity.",
+              "Analysts described the summit's lasting impact as limited mostly to visual optics."
+            ],
+            "rebuttal": "Proponents argue that personal leader-to-leader diplomacy lays the necessary groundwork for future negotiations."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Engaging directly with major foreign adversaries is essential for global stability.",
+            "why": "Direct presidential dialogue with China and Russia creates opportunities to de-escalate international tensions.",
+            "evidence": [
+              "Trump described the summit as 'Great and Highly Consequential' following his Asia trip.",
+              "The leaders produced a joint statement emphasizing unity on select international issues."
+            ],
+            "rebuttal": "Critics assert that diplomatic engagement without clear concessions legitimizes adversary positions without gaining tangible benefits."
+          },
+          {
+            "claim": "Maintaining flexible diplomatic relations is preferable to rigid formal agreements.",
+            "why": "Informal understandings and open dialogue allow for adaptable negotiation strategies without binding commitments.",
+            "evidence": [
+              "Trump touted his positive personal relationship with Chinese President Xi Jinping.",
+              "Administration officials framed the meeting as a productive starting point for ongoing talks."
+            ],
+            "rebuttal": "Opponents stress that without enforceable treaties, joint statements offer no guarantees of security or compliance."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-20-3-federal-judges-issue-injunctions-against",
+      "date": "2026-11-20",
+      "topic": "Courts & Law",
+      "headline": "Federal Judges Issue Injunctions Against Proposed D.C. Monument Construction",
+      "points": [
+        "A second federal judge issued a preliminary injunction blocking construction of a proposed 250-foot arch near Arlington National Cemetery.",
+        "Challengers argue the $1 billion monument obstructs sightlines between the Lincoln Memorial and Arlington National Cemetery.",
+        "Members of the Kennedy family joined legal actions opposing the project."
+      ],
+      "summary": "A federal judge in Virginia issued a preliminary injunction blocking construction of a proposed 250-foot arch initiated by President Trump near Arlington National Cemetery. This marks the second judicial ruling halting the project following a temporary injunction by a D.C. federal judge. Challengers, including members of the Kennedy family, argue the monument obstructs historical sightlines and casts shadows over cemetery gravesites. The injunction halts construction while legal challenges proceed through the court system.",
+      "sides": {
+        "d": {
+          "take": "Opponents welcomed the court rulings, arguing the monument is unlikely to succeed on its legal merits and jeopardizes historic preservation.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/20/nx-s1-6048675/trump-arch-blocked-arlington"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/20/trump-arch-blocked-again"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Supporters of the administration's monumental project faced another setback as courts halted construction, while critics termed the initiative rushed.",
+          "src": [
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/20/us-news/second-judge-blocks-trumps-1b-triumphal-arch-project-near-arlington-rushed-job/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist reporting noted that two federal judges have now blocked the project due to legal challenges regarding historical sightlines and administrative procedure.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/20/trump-arch-blocked-again"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "President Trump proposed building a 250-foot arch near Arlington National Cemetery and the Lincoln Memorial in Washington, D.C. The planned $1 billion structure faced immediate pushback from historic preservationists, local officials, and family members of historic figures buried at Arlington. Multiple lawsuits were filed in federal court seeking to halt the construction project.",
+        "agree": [
+          "Two federal judges have issued court orders blocking construction of the proposed arch.",
+          "The planned structure is a 250-foot arch located near Arlington National Cemetery."
+        ],
+        "caseD": [
+          {
+            "claim": "The proposed monument disrupts historic national landmarks and sightlines.",
+            "why": "Erecting a 250-foot structure between the Lincoln Memorial and Arlington National Cemetery mars protected historic vistas.",
+            "evidence": [
+              "Lawsuits asserted the structure obstructs the line of sight to Arlington National Cemetery.",
+              "Nine members of the Kennedy family joined legal actions opposing the proposal."
+            ],
+            "rebuttal": "Proponents argue national monuments add to civic beauty and honor historic national achievements."
+          },
+          {
+            "claim": "The project was rushed and failed to follow required legal approval processes.",
+            "why": "Bypassing standard oversight and historical preservation reviews invalidates the construction plans.",
+            "evidence": [
+              "A federal judge ruled the project was unlikely to succeed on the merits in court.",
+              "Court findings described the initiative as a 'rushed job' lacking proper legal backing."
+            ],
+            "rebuttal": "Supporters claim executive authority allows the administration to advance civic construction projects efficiently."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The president has authority to commission national monuments that celebrate American history.",
+            "why": "Building landmark structures provides lasting civic heritage and honors national grandeur.",
+            "evidence": [
+              "The proposed Triumphal Arch was planned as a prominent civic structure near the capital.",
+              "The administration initiated the project as part of national public works efforts."
+            ],
+            "rebuttal": "Critics maintain that presidential projects must comply with statutory environmental and historical protection laws."
+          },
+          {
+            "claim": "Legal challenges represent unnecessary obstruction of executive public works projects.",
+            "why": "Repeated injunctions delay public construction and increase project costs through litigation.",
+            "evidence": [
+              "Preliminary injunctions indefinitely blocked construction across multiple jurisdictions.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Opponents emphasize that judicial reviews ensure federal projects respect local heritage and legal boundaries."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-19-1-trump-meets-with-xi-and-putin-in-histori",
       "date": "2026-11-19",
