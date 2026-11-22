@@ -1,6 +1,223 @@
 {
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "stories": [
+    {
+      "id": "2026-11-22-1-democrats-secure-control-of-congress-fol",
+      "date": "2026-11-22",
+      "topic": "Elections",
+      "headline": "Democrats Secure Control of Congress Following Midterm Election Victories",
+      "points": [
+        "Democrats secured a 258-seat House majority following the midterm elections.",
+        "In North Carolina, Representative Virginia Foxx conceded her seat to Democrat Chuck Hubbard after a recount.",
+        "Republicans and conservative commentators are evaluating the factors behind their election losses.",
+        "Incoming Democratic leadership emphasized an agenda focused on affordability and healthcare."
+      ],
+      "summary": "Following the midterm elections, Democrats secured control of both chambers of Congress, winning a historic House majority. The victories included key flips in states like North Carolina, where Democrat Chuck Hubbard defeated long-serving Republican Representative Virginia Foxx. In the aftermath, Republicans and conservative commentators are debating the party's direction and whether President Trump's endorsements contributed to the losses. Democratic leaders, including incoming House Speaker Hakeem Jeffries, stated their priority will be addressing affordability and expanding healthcare.",
+      "sides": {
+        "d": {
+          "take": "Democrats state their election victories give them a mandate to address affordability, healthcare, and immigration reform.",
+          "src": [
+            [
+              "The Guardian",
+              "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans and conservative analysts express concern over midterm defeats, questioning candidate messaging and political strategy.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/22/us-news/ex-white-house-press-secretary-katie-zacharia-criticizes-gop-over-midterm-losses-says-party-isnt-good-at-winning/"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/populism-isn-t-built-for-setbacks"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The midterm elections resulted in a major shift in congressional leadership, putting Democrats in charge of the incoming 119th Congress. Key suburban and rural district outcomes altered the balance of power in Washington.",
+        "agree": [
+          "Democrats won control of Congress in the midterm elections.",
+          "Democrat Chuck Hubbard defeated incumbent Republican Virginia Foxx in North Carolina."
+        ],
+        "caseD": [
+          {
+            "claim": "Voters selected Democratic leadership to focus on cost-of-living and healthcare priorities.",
+            "why": "Widespread victories across competitive districts demonstrate broad support for Democratic legislative goals.",
+            "evidence": [
+              "Democrats clinched a 258-seat House majority, their largest in three decades.",
+              "Chuck Hubbard defeated 11-term Republican Representative Virginia Foxx in North Carolina's 5th Congressional District."
+            ],
+            "rebuttal": "Republicans argue Democratic wins were driven by voter dissatisfaction and anti-Trump sentiment rather than an endorsement of progressive policies."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Republican losses stemmed from messaging challenges and weak candidate execution rather than policy flaws.",
+            "why": "Conservative principles remain sound, but the party struggled to persuade voters and execute successful campaigns in swing districts.",
+            "evidence": [
+              "Former press secretary Katie Zacharia stated the GOP had difficulty persuading voters despite Democratic weaknesses.",
+              "National Review analysts noted that reliance on political movement dynamics created vulnerabilities during election setbacks."
+            ],
+            "rebuttal": "Democrats contend that voters deliberately rejected Republican policies on the economy and healthcare at the ballot box."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-2-u-s-infrastructure-and-federal-agencies-",
+      "date": "2026-11-22",
+      "topic": "Technology",
+      "headline": "U.S. Infrastructure and Federal Agencies Face Ongoing Cybersecurity Incidents",
+      "points": [
+        "Federal authorities are investigating a potential breach of the FBI's National Crime Information Center database.",
+        "U.S. ports report confronting thousands of daily automated cyberattacks targeting critical supply chains.",
+        "Treasury Secretary Scott Bessent defended security updates causing technical disruptions as necessary protection.",
+        "President Trump suggested the FBI breach might uncover details regarding past federal investigations."
+      ],
+      "summary": "Federal agencies and key infrastructure operators across the U.S. are responding to a heightened volume of cyber threats and database incidents. The FBI has launched an investigation into a reported security breach of its national crime database. Simultaneously, strategic U.S. ports report facing thousands of daily automated cyber threats targeting logistics systems. Administration officials maintained that temporary technical friction from security updates is a necessary trade-off to protect critical infrastructure.",
+      "sides": {
+        "d": {
+          "take": "Democratic observers stress that persistent cyber threats to transportation ports and federal databases demonstrate critical national security vulnerabilities requiring federal action.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/policy/technology/6235972-us-ports-ai-cyberattacks/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Administration officials contend that minor system disruptions are expected during routine cybersecurity enhancements, while President Trump raised questions about FBI record management.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6236005-bessent-bank-outage-vaccine-analogy/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/21/trump-russia-fbi-hack"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Cybersecurity threats against U.S. public databases and critical infrastructure have escalated, prompting federal law enforcement and private sector operators to enhance defensive measures. Recent incidents have affected law enforcement networks as well as key maritime supply routes.",
+        "agree": [
+          "Federal law enforcement databases and major U.S. supply ports are actively targeted by cyberattacks.",
+          "System updates designed to improve cybersecurity have caused minor operational disruptions."
+        ],
+        "caseD": [
+          {
+            "claim": "Continuous cyber vulnerabilities at ports and federal agencies threaten national infrastructure stability.",
+            "why": "Frequent automated attacks against essential trade hubs and law enforcement systems highlight systemic risks to public safety.",
+            "evidence": [
+              "The Port of Corpus Christi reported facing hundreds to thousands of cyberattacks every day.",
+              "The FBI opened an investigation into an apparent breach of its National Crime Information Center database."
+            ],
+            "rebuttal": "Administration officials argue that security systems successfully detect threats and that routine updates are continuously hardening infrastructure."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Temporary disruptions are a minor operational cost for robust digital protection, and federal databases must remain accountable.",
+            "why": "Implementing strong defenses against cyber threats inevitably causes temporary side effects, while database breaches should be examined for historical transparency.",
+            "evidence": [
+              "Treasury Secretary Scott Bessent compared tech outage side effects to vaccines, calling them a small price for cyber protection.",
+              "President Trump noted the FBI database hack might expose details regarding previous federal investigations."
+            ],
+            "rebuttal": "Critics argue that downplaying database breaches and technical outages underestimates the potential risk to law enforcement and commercial operations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-22-3-u-s-maintains-naval-blockade-on-iran-ami",
+      "date": "2026-11-22",
+      "topic": "Foreign Policy",
+      "headline": "U.S. Maintains Naval Blockade on Iran Amid Escalating Regional Tensions",
+      "points": [
+        "President Trump threatened new military strikes against Iran and criticized ongoing diplomatic negotiations.",
+        "Iran gathered oil tankers at a main export hub to challenge enforcement of the U.S. naval blockade.",
+        "Iranian military forces publicly displayed an underground facility and a new dual-missile launching system.",
+        "Security analysts continue to monitor Iranian efforts to resume crude oil exports under heavy sanctions."
+      ],
+      "summary": "Tensions between the United States and Iran escalated as President Donald Trump warned of potential new military strikes while keeping a U.S. naval blockade in place. Trump described Iranian negotiators as ineffective, indicating that Washington would rely on military deterrence. In response, Iran displayed an underground missile complex and positioned oil tankers at a primary terminal in an effort to resume crude oil exports despite U.S. sanctions.",
+      "sides": {
+        "d": {
+          "take": "Critics express concern that aggressive military rhetoric and ongoing blockades heighten regional friction without securing a diplomatic agreement.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/22/us-news/iran-amasses-14-oil-tankers-at-key-export-hub-as-tehran-weighs-challenge-to-us-blockade-report/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans support strict naval blockades and military deterrence as necessary actions to counter Iranian missile expansion and oil evasion.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/22/us-news/iran-shows-off-underground-missile-city-with-new-double-launcher/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The U.S. has enforced maritime blockades and economic sanctions to limit Iran's oil revenue and constrain its weapons development. Tehran has attempted to bypass enforcement through ship positioning and military demonstrations.",
+        "agree": [
+          "The U.S. naval blockade restricts Iranian crude oil exports at key maritime terminals.",
+          "Iran continues to develop and unveil new military hardware and missile launch systems."
+        ],
+        "caseD": [
+          {
+            "claim": "Unilateral blockades and military threats escalate regional instability without delivering long-term diplomatic solutions.",
+            "why": "Relying primarily on military pressure risks provoking asymmetric military responses and defiance from Iranian authorities.",
+            "evidence": [
+              "Iran publicly displayed an underground missile city with a new liquid-fueled double launcher system.",
+              "Iran amassed 14 crude oil tankers at its primary export hub to challenge U.S. naval enforcement."
+            ],
+            "rebuttal": "Supporters of administration policy argue that diplomatic talks have consistently failed to stop Iranian weapon development."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Decisive military deterrence and economic blockades are required to restrict Iranian state revenue and weapons programs.",
+            "why": "Firm economic and military pressure is the most effective method to stop Tehran from expanding its regional capabilities.",
+            "evidence": [
+              "President Trump warned of potential strikes after the new year and described Iranian negotiators as unconstructive.",
+              "Reports confirm that U.S. blockades have forced Iranian tankers to gather at export hubs rather than freely shipping crude oil."
+            ],
+            "rebuttal": "Critics respond that coercive measures have not prevented Iran from advancing its technical launch capabilities or attempting export maneuvers."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-21-1-hackers-breach-fbi-criminal-database-and",
       "date": "2026-11-21",
