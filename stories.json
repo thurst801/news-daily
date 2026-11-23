@@ -1,6 +1,294 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "stories": [
+    {
+      "id": "2026-11-23-1-jensen-huang-reinstated-as-nvidia-ceo-fo",
+      "date": "2026-11-23",
+      "topic": "Technology",
+      "headline": "Jensen Huang Reinstated as Nvidia CEO Following Intervention by President Trump",
+      "points": [
+        "Nvidia reinstated co-founder Jensen Huang as CEO following his earlier removal over an affair involving alleged foreign intelligence ties.",
+        "President Trump publicly supported Huang's return, arguing his leadership is vital to the American economy and AI sector.",
+        "The news drove a historic stock market rally, adding nearly $1 trillion to Nvidia's market capitalization.",
+        "Lawmakers from both major parties expressed sharp concern over national security risks and presidential intervention in corporate governance."
+      ],
+      "summary": "Nvidia's board of directors unanimously voted to reinstate Jensen Huang as CEO after he was previously ousted over an admitted affair with a woman alleged to have ties to Chinese intelligence. President Trump actively advocated for Huang's return, contending that the executive is central to U.S. economic strength and technological competitiveness in artificial intelligence. Following the announcement, stock markets surged, with Nvidia gaining nearly $1 trillion in value. However, the decision drew widespread criticism from both Democratic and Republican lawmakers, who raised alarms over potential foreign espionage threats and executive accountability.",
+      "sides": {
+        "d": {
+          "take": "Democrats criticized President Trump's intervention in Nvidia's corporate leadership, arguing it undermines national security oversight and executive accountability.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-huang-congress-criticism.html"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/dc-md-va/2026/11/23/van-hollen-uses-huang-controversy-bid-oust-schumer/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/23/schumer-trump-nvidia-huang-reinstated"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-accused-socialism-communism-after-helping-scandal-plagued-nvidia-ceo-reclaim-top-job"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans and Trump administration officials defended Huang's reinstatement as essential to preserving U.S. dominance in AI technology and economic stability.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/23/us-news/trump-assured-nvidia-board-jensen-huang-unlikely-to-be-prosecuted-we-believe-hes-fine-hes-absolutely-fine/"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/23/us-news/trump-suggests-jensen-huang-could-have-moved-to-china-if-not-reinstated-as-nvidia-ceo-sex-sells-fellas/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist coverage highlights the massive Wall Street rally following Huang's return alongside concurrent federal regulatory actions, such as blacklisting chip distributor Megaspeed.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/analysis/6238763-trump-drives-nvidia-ceo-return/"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/policy/technology/6238594-commerce-blacklists-megaspeed-nvidia/"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/newsletters/business-economy/6238640-stocks-surge-after-huang-returns-to-nvidia/"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Jensen Huang, co-founder of semiconductor giant Nvidia, was ousted by the company's board following disclosures about an affair involving alleged foreign intelligence risks. Nvidia's central role in supplying hardware for global artificial intelligence development has made its corporate governance a matter of national security concern. Federal regulators simultaneously moved to place foreign firms linked to chip diversion, such as Singapore-based Megaspeed, onto trade blacklists.",
+        "agree": [
+          "Jensen Huang was reinstated as CEO of Nvidia after being removed by the board of directors.",
+          "President Trump publicly pushed for Huang's reinstatement.",
+          "Nvidia's stock value rose significantly following the announcement of Huang's return."
+        ],
+        "caseD": [
+          {
+            "claim": "Presidential intervention in private corporate leadership sets a dangerous precedent and threatens national security.",
+            "why": "Lawmakers contend that executive accountability and foreign espionage risks should take priority over short-term market gains.",
+            "evidence": [
+              "Politicians questioned whether the president was prioritizing the stock market over national security (a11).",
+              "Sen. Chuck Schumer warned that Huang's return underscores the immediate need for Congressional action and oversight (a46)."
+            ],
+            "rebuttal": "Supporters argue that keeping premier tech talent in charge of key American companies is crucial to preventing foreign rivals from gaining an advantage."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Jensen Huang's return was necessary to stabilize the national economy and protect U.S. AI leadership.",
+            "why": "Proponents view Huang as an indispensable executive whose removal risked destabilizing key technology sectors and financial markets.",
+            "evidence": [
+              "Nvidia's reinstatement of Huang helped add nearly $1 trillion to the company's stock value and lifted broad market indexes (a26, a31, a40).",
+              "White House allies argued Huang was 'too big to fail' for the overall U.S. economy (a44)."
+            ],
+            "rebuttal": "Bipartisan critics emphasize that no corporate executive should be above compliance rules or national security evaluations."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-23-2-representative-jimmy-gomez-resigns-follo",
+      "date": "2026-11-23",
+      "topic": "Courts & Law",
+      "headline": "Representative Jimmy Gomez Resigns Following Ethics Panel Investigation",
+      "points": [
+        "California Rep. Jimmy Gomez announced he will resign from Congress effective December 1.",
+        "A House Ethics Committee report concluded Gomez violated House rules regarding unwelcome sexual advances toward a staff member.",
+        "Gomez acknowledged making personal mistakes while disputing some of the committee's specific allegations.",
+        "The resignation comes shortly after Gomez lost his re-election bid during the midterm elections."
+      ],
+      "summary": "Democratic Representative Jimmy Gomez of California announced his resignation from Congress, effective December 1, following the release of a House Ethics Committee report. The report concluded that Gomez violated House rules by making unwelcome sexual advances toward a staff member. While Gomez disputed aspects of the report's findings, he stated he took responsibility for personal mistakes and saw no choice but to step down. The decision comes near the end of his term, following his loss in the recent midterm elections.",
+      "sides": {
+        "d": {
+          "take": "Gomez stated he accepted responsibility for personal mistakes and resigned to prevent further disruption, while maintaining reservations about specific ethics findings.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/23/us/politics/jimmy-gomez-democrat-resigns.html"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/politics/2026/11/23/ousted-democratic-house-member-resign-following-sexual-misconduct-findings/"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/23/us-news/dem-rep-jimmy-gomez-resigns-after-credible-allegation-of-sexual-assault-against-staffer/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans pointed to the ethics report findings as evidence of severe misconduct, noting the allegations implicated standards against sexual harassment and assault.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/dem-lawmaker-made-unwelcome-sexual-advances-toward-congressional-staffer-house-panel-finds"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/23/us-news/dem-rep-jimmy-gomez-resigns-after-credible-allegation-of-sexual-assault-against-staffer/"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/23/us-news/eric-swalwells-pal-jimmy-gomez-engaged-in-sexual-misconduct-with-house-staffer-ethics-report-finds-cites-posts-reporting/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Centrist reporting focused on the timeline of the resignation, noting it occurs just weeks before Gomez's term was set to expire following a lost re-election bid.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cm2l5kgpw5l5o?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The House Ethics Committee conducted an inquiry into Representative Jimmy Gomez following complaints regarding interactions with a congressional staffer. The bipartisan panel issued a report detailing rule violations shortly before Gomez was set to complete his term in the House, having already lost his bid for re-election in the midterm elections.",
+        "agree": [
+          "Rep. Jimmy Gomez announced his resignation effective December 1.",
+          "The House Ethics Committee issued a report finding Gomez violated House rules regarding unwelcome sexual advances.",
+          "Gomez lost his re-election bid earlier in the month."
+        ],
+        "caseD": [
+          {
+            "claim": "Resignation was the appropriate step to take responsibility while acknowledging personal mistakes.",
+            "why": "Gomez concluded that stepping down immediately was necessary despite his disagreement with specific findings in the report.",
+            "evidence": [
+              "Gomez stated the report left him with 'no other alternative than to resign' (a8).",
+              "Gomez expressed that he takes 'full responsibility for the personal mistakes' made during his tenure (a57)."
+            ],
+            "rebuttal": "Critics argue that resigning only weeks before the end of a term after losing re-election offers minimal real accountability for rule violations."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The findings against Gomez represent serious ethical and potential legal violations that warranted immediate resignation.",
+            "why": "Ethics panel disclosures detailed behavior that violated standards protecting congressional staff from unwelcome behavior.",
+            "evidence": [
+              "The Ethics report concluded Gomez's actions violated House rules through unwelcome sexual advances (a1).",
+              "The panel noted the reported conduct implicated D.C. laws regarding criminal sexual assault (a51)."
+            ],
+            "rebuttal": "Gomez and his supporters noted that he disputed the specific characterization of the events while choosing to step down."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-23-3-trump-administration-pauses-planned-ammu",
+      "date": "2026-11-23",
+      "topic": "Environment",
+      "headline": "Trump Administration Pauses Planned Ammunition Detonation in Iowa",
+      "points": [
+        "President Trump ordered a pause on plans to detonate tons of explosive lead material at an Iowa military facility.",
+        "Iowa state officials raised safety and transparency concerns after learning about the planned disposal of lead azide.",
+        "The decision on how to proceed has been deferred pending a ruling from a federal appeals court.",
+        "Trump reiterated his personal support for destroying the munitions while emphasizing state leadership's role in local safety."
+      ],
+      "summary": "President Trump ordered the U.S. Army to pause a planned open detonation of tons of explosive lead azide material at an ammunition facility in Iowa. The pause followed public objections from Iowa state leaders, including Governor-elect Rob Sand, who cited a lack of transparency and potential environmental risks. A federal appeals court declined an immediate request to halt the process permanently, leaving the issue in legal limbo as federal authorities defer to judicial decisions and local coordination.",
+      "sides": {
+        "d": {
+          "take": "Iowa officials argued federal agencies moved forward with hazardous detonation plans without providing adequate transparency or environmental safeguards to local communities.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/regulation/court-battles/6238765-appeals-court-army-iowa-lead-detonation-sand-trump-epa/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump"
+            ]
+          ]
+        },
+        "r": {
+          "take": "President Trump maintained that disposing of unstable munitions is necessary but ordered a pause to allow judicial review and ensure state cooperation.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/regulation/court-battles/6238765-appeals-court-army-iowa-lead-detonation-sand-trump-epa/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/23/us-news/trump-orders-the-army-not-to-detonate-bomb-making-chemicals-in-iowa-without-court-approval/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The U.S. Army planned to destroy tons of explosive lead azide at the Iowa Army Ammunition Plant due to safety concerns regarding the stability of the aged materials. State officials expressed alarm upon learning of the planned open-air detonations, prompting legal challenges and political debate over federal military site operations versus local environmental protection.",
+        "agree": [
+          "The Army planned to detonate tons of explosive lead azide in Iowa.",
+          "President Trump ordered a temporary pause on the detonation plans.",
+          "A federal appeals court declined to issue an immediate permanent halt to the operation."
+        ],
+        "caseD": [
+          {
+            "claim": "The federal government failed to act transparently regarding potentially hazardous environmental procedures.",
+            "why": "Local leadership was not adequately informed about open-air lead detonations that could impact surrounding communities.",
+            "evidence": [
+              "State officials noted they only recently learned of the plan to detonate tons of lead azide at the plant (a45).",
+              "Gov.-elect Rob Sand passed authority back to federal officials while seeking legal intervention to protect local interests (a33)."
+            ],
+            "rebuttal": "The administration argues that deteriorating military explosives pose an urgent safety risk that requires prompt disposal."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Pausing the detonation respects judicial review and places clear responsibility on state leaders for local safety decisions.",
+            "why": "The administration is willing to await court guidance while ensuring state officials share accountability for delays in munition disposal.",
+            "evidence": [
+              "Trump ordered the Army to pause plans until an appeals court and state leadership sign off (a45).",
+              "Trump noted he personally supported destroying the material but deferred to the judicial process (a33, a59)."
+            ],
+            "rebuttal": "State officials argue federal military facilities remain the primary operational responsibility of the federal government, not state executives."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-22-1-democrats-secure-control-of-congress-fol",
       "date": "2026-11-22",
