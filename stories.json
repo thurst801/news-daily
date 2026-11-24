@@ -1,6 +1,321 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "stories": [
+    {
+      "id": "2026-11-24-1-president-trump-backs-reinstatement-of-n",
+      "date": "2026-11-24",
+      "topic": "Technology",
+      "headline": "President Trump Backs Reinstatement of Nvidia CEO Jensen Huang Amid National Security and Export Inquiries",
+      "points": [
+        "Nvidia reinstated co-founder Jensen Huang as CEO following his earlier resignation over personal affair allegations.",
+        "President Donald Trump took credit for encouraging Huang's return, citing positive impacts on the economy and Nvidia's stock market valuation.",
+        "The Justice Department is reviewing claims regarding Nvidia chips allegedly diverted to China, though officials downplayed talk of criminal indictments."
+      ],
+      "summary": "Nvidia co-founder Jensen Huang returned to his role as chief executive following a brief resignation over personal conduct allegations. President Donald Trump publicly supported Huang's reinstatement, taking credit for encouraging the decision and emphasizing its economic benefits. The move has drawn intense scrutiny from lawmakers and ethics groups over executive standards and potential conflicts of interest. At the same time, the Justice Department is examining whether Nvidia high-performance chips were improperly diverted to China, though officials emphasized that inquiries do not automatically imply criminal charges.",
+      "sides": {
+        "d": {
+          "take": "Democrats argue that Trump's intervention undermines corporate accountability and raises serious conflicts of interest given his Nvidia stock holdings and ongoing national security concerns.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/24/nx-s1-6051583/nvidia-huang-dei-trump-women"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/politics/2026/11/24/see-all-trumps-nvidia-stock-trades-since-january/"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/national-security/2026/11/24/blanche-downplays-nvidia-scrutiny-after-trumps-move-back-jensen-huang/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans and administration officials emphasize that Huang's return is crucial for American economic dominance in AI and clarify that routine DOJ inquiries should not be equated with criminal wrongdoing.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/24/us-news/doj-looking-into-nvidias-jensen-huang-but-not-necessarily-in-a-criminal-way/"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/24/us-news/trump-says-cheating-nvidia-ceo-jensen-huang-and-his-wife-have-worked-it-out-very-good-wife/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Market analysts note that while Huang's comeback immediately added $1 trillion to Nvidia's valuation, significant questions remain regarding regulatory compliance and export controls.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6238916-live-updates-jensen-huang-nvidia-donald-trump-administration-reconciliation-spending-bill-debate/"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Jensen Huang temporarily stepped down from Nvidia following revelations regarding extramarital affairs, including claims involving an alleged foreign spy. President Trump subsequently voiced strong support for Huang's return, leading Nvidia's board to reinstate him. The decision coincides with broader investigations into U.S. technology exports to China and questions surrounding executive governance in major tech firms.",
+        "agree": [
+          "Jensen Huang was reinstated as CEO of Nvidia after previously resigning.",
+          "Nvidia's stock value increased significantly following the announcement of Huang's return.",
+          "The Justice Department is examining inquiries related to Nvidia microchips and potential export control violations."
+        ],
+        "caseD": [
+          {
+            "claim": "Presidential intervention in corporate governance creates ethical conflicts and undermines export security.",
+            "why": "Allowing executives facing security and ethical questions to return to key positions puts financial interest ahead of national security and regulatory compliance.",
+            "evidence": [
+              "Financial disclosures indicate President Trump holds between $6 million and $71 million in Nvidia stock.",
+              "DOJ investigators gathered evidence regarding high-powered Nvidia chips being illegally diverted to China by third-party firms."
+            ],
+            "rebuttal": "Republicans contend the administration is focused on protecting economic competitiveness and that routine administrative inquiries do not constitute proof of national security violations."
+          },
+          {
+            "claim": "Reinstating Huang sends a damaging message about corporate accountability and workplace ethics.",
+            "why": "Bypassing conduct standards for high-performing executives signals that financial returns outweigh governance and ethical norms.",
+            "evidence": [
+              "Workplace diversity and culture advocates stated Huang's reinstatement sends a message that financial metrics are all that matter.",
+              "Attorney General Todd Blanche faced questions over how the Justice Department evaluated security risks regarding the executive."
+            ],
+            "rebuttal": "Supporters assert that private personal matters should remain separate from executive leadership decisions when business performance and shareholder value are at stake."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Huang's return as CEO is a major win for the American economy and technological leadership.",
+            "why": "Huang's leadership is critical to maintaining U.S. preeminence in artificial intelligence and sustaining strong market growth.",
+            "evidence": [
+              "President Trump touted Huang's return to Nvidia as highly beneficial for both the company and the U.S. economy.",
+              "Huang's reinstatement helped add approximately $1 trillion to Nvidia's market valuation."
+            ],
+            "rebuttal": "Democrats counter that executive performance does not excuse potential breaches of export restrictions or ethical standards."
+          },
+          {
+            "claim": "Justice Department inquiries are routine oversight and do not signal criminal wrongdoing.",
+            "why": "Preliminary reviews and gathering information are standard administrative processes that should not be misconstrued as formal charges.",
+            "evidence": [
+              "Attorney General Todd Blanche stated that DOJ inquiries looking into matters do not necessarily mean an indictment will follow.",
+              "President Trump noted that personal issues surrounding the executive's personal life had been resolved."
+            ],
+            "rebuttal": "Critics maintain that sidestepping tough questions about security risks damages public trust in federal oversight of sensitive technology."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-2-democrats-expand-house-seat-majority-fol",
+      "date": "2026-11-24",
+      "topic": "Elections",
+      "headline": "Democrats Expand House Seat Majority Following Midterm Race Calls",
+      "points": [
+        "Final race tallies from the midterm elections showed Democrats expanding their House majority significantly.",
+        "Democrats flipped dozens of seats across the country, overcoming Republican state redistricting efforts in several key states.",
+        "Local prosecutors dropped a prior misdemeanor charge against newly elected Democratic Representative LaKesha Womack following her victory."
+      ],
+      "summary": "Following the recent midterm elections, updated vote counts showed Democrats securing a expanded House majority by picking up dozens of seats nationwide. The gains came despite aggressive Republican redistricting attempts in states like North Carolina, where several GOP incumbents lost their seats to Democratic challengers. In one high-profile surprise victory, newly elected Democratic Representative LaKesha Womack saw a pending legal charge regarding an unreturned rental car dropped by local prosecutors. The outcome establishes the power balance in the House for the upcoming legislative term.",
+      "sides": {
+        "d": {
+          "take": "Democrats view their expanded House majority as a clear mandate from voters rejecting Republican policies and redistricting efforts.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/politics/2026/11/24/felony-charge-north-carolina-dropped-against-incoming-democratic-lawmaker/"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/elections/2026/11/24/look-how-much-republicans-fell-short-states-where-they-redrew-maps/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans acknowledge the difficult midterm environment in key states while pointing out that legal and procedural challenges to election rules remain ongoing.",
+          "src": [
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/elections/2026/11/24/look-how-much-republicans-fell-short-states-where-they-redrew-maps/"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/24/us-news/court-strikes-down-pregnant-workers-law-by-ruling-house-proxy-vote-unconstitutional/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Nonpartisan observers emphasize that several newcomer candidates achieved unexpected victories without major national party funding or television advertising.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/24/upshot/midterm-elections-upsets-predictions.html"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/24/lakesha-womack-charge-dropped-rental-car-nc"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The midterm elections featured significant battles over congressional map boundaries redrawn by state legislatures. Despite efforts by Republican leadership to craft favorable district maps, Democratic candidates mounted successful campaigns in several targeted suburban and rural districts, resulting in major seat shifts in the House of Representatives.",
+        "agree": [
+          "Democrats gained dozens of House seats in the midterm elections to expand their majority.",
+          "Republican redistricting efforts in several states failed to secure expected seat victories.",
+          "A pending legal charge against incoming Representative LaKesha Womack was officially dropped by prosecutors."
+        ],
+        "caseD": [
+          {
+            "claim": "Voters delivered a broad rejection of gerrymandered maps and Republican legislative priorities.",
+            "why": "Democratic victories across diverse districts demonstrate that attempts to redraw maps were unable to overcome voter dissatisfaction.",
+            "evidence": [
+              "Democrats flipped up to 49 seats in total, securing their largest House margin in decades.",
+              "President Trump's push to redraw House district lines in Republicans' favor fell short in key states like North Carolina."
+            ],
+            "rebuttal": "Republicans argue that midterm elections traditionally favor the opposition party and that specific local dynamics drove individual race results."
+          },
+          {
+            "claim": "Grassroots candidates succeeded by connecting directly with local communities rather than relying on heavy media spending.",
+            "why": "New Democratic members won competitive races through voter outreach rather than relying solely on national party spending.",
+            "evidence": [
+              "A Democratic candidate in Tennessee ousted an eight-term Republican incumbent without running a single television ad.",
+              "Representative-elect LaKesha Womack won a heavily Republican district as a first-time candidate."
+            ],
+            "rebuttal": "Republicans maintain that unusual midterm turnout patterns created atypical conditions that do not reflect long-term realignment."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Legal and procedural irregularities affected key legislative outcomes during the previous congress.",
+            "why": "Past voting mechanisms, such as proxy voting, created unconstitutional precedents that impacted federal legislation.",
+            "evidence": [
+              "A federal appeals court struck down the Pregnant Workers Fairness Act, ruling House proxy voting during its passage was unconstitutional.",
+              "Republicans actively challenged non-traditional voting rules and ballot counting procedures in court."
+            ],
+            "rebuttal": "Democrats state that emergency voting provisions were fully legal administrative measures designed to maintain government functionality."
+          },
+          {
+            "claim": "Incoming Democratic lawmakers faced lingering legal and ethics questions during their campaigns.",
+            "why": "Unresolved legal issues involving candidates highlighted background check shortcomings prior to the election.",
+            "evidence": [
+              "Representative-elect Womack faced a felony charge related to an unreturned rental car from 2019 until it was dropped post-election.",
+              "California Representative Jimmy Gomez announced his resignation following a House Ethics report finding violations of House rules."
+            ],
+            "rebuttal": "Democrats point out that prosecutors determined Womack's matter did not warrant prosecution and that party leadership maintained standard ethics oversight."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-24-3-doj-unseals-search-warrant-records-in-in",
+      "date": "2026-11-24",
+      "topic": "Courts & Law",
+      "headline": "DOJ Unseals Search Warrant Records in Investigation Involving Rep. Ilhan Omar",
+      "points": [
+        "A federal judge unsealed heavily redacted search warrant documents related to a search of Rep. Ilhan Omar's home.",
+        "Justice Department prosecutors stated the investigation focuses on personal actions unrelated to her congressional work.",
+        "The DOJ issued an apology to House legal counsel over prior court statements regarding access to the property."
+      ],
+      "summary": "Federal court records related to a search warrant executed at the home of Representative Ilhan Omar were unsealed by a federal judge in Washington, D.C. Prosecutors clarified that the long-running inquiry involves allegations of personal conduct rather than her official duties in Congress. The case generated legal friction between federal prosecutors and House legal counsel over procedural steps taken to obtain the warrant. Justice Department officials subsequently filed apologies in court to resolve disputes regarding how the search was conducted.",
+      "sides": {
+        "d": {
+          "take": "Democrats note that the investigation concerns personal matters unrelated to legislative work and highlight that the Justice Department apologized for misrepresenting House counsel's actions.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/regulation/court-battles/6241076-doj-apologizes-house-lawyer-berry/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans argue that the unsealing of warrant documents highlights judicial inconsistency compared to decisions in other high-profile federal investigations.",
+          "src": [
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/obama-judges-omar-warrant-unsealing-directly-contradicts-his-own-decision-trump-case"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Legal analysts focus on the unsealed filings showing that prosecutors are pursuing long-standing allegations while redacting sensitive detail.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c6n831lzl5y1o?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Federal law enforcement executed a search warrant at the residential property of Representative Ilhan Omar as part of an ongoing federal inquiry. Following requests to unseal court documents, a federal district judge released redacted files detailing prosecutor applications for the search warrant, prompting debate over judicial standards and law enforcement procedures involving elected officials.",
+        "agree": [
+          "Search warrant records concerning Representative Omar's home were unsealed by a federal judge.",
+          "Justice Department prosecutors stated the underlying allegations are unrelated to Omar's official work in Congress.",
+          "The Justice Department formally apologized to House legal counsel regarding statements made in court filings."
+        ],
+        "caseD": [
+          {
+            "claim": "The Justice Department overreached and mischaracterized House leadership's cooperation during the warrant process.",
+            "why": "Department filings unfairly suggested House legal counsel resisted lawful procedures when standard constitutional protections were being raised.",
+            "evidence": [
+              "The DOJ apologized to House top lawyer Matthew Berry for claims he resisted efforts to obtain the search warrant.",
+              "Court filings confirmed prosecutors admitted their prior statements regarding House counsel were inaccurate."
+            ],
+            "rebuttal": "Republicans assert that prosecutors acted appropriately in pursuing evidence of potential criminal conduct regardless of the target's political status."
+          },
+          {
+            "claim": "The inquiry involves private matters and should not be politicized as a reflection on legislative integrity.",
+            "why": "Distinguishing between personal legal matters and congressional service is essential to prevent political weaponization of law enforcement actions.",
+            "evidence": [
+              "Unsealed records specify that prosecutors are investigating alleged personal crimes unrelated to her work in Congress.",
+              "Court records show the allegations span personal activities spanning prior years."
+            ],
+            "rebuttal": "Republicans argue that elected officials must be held to high ethical and legal standards in both their public and private lives."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Judicial handling of warrant unsealings reflects inconsistent standards compared to cases involving conservative figures.",
+            "why": "Decisions to unseal search records in this case contrast with rulings made by the same judges in high-profile investigations involving Republicans.",
+            "evidence": [
+              "DOJ lawyers noted that the judge's unsealing decision in Omar's case contradicted ruling logic applied in cases involving Donald Trump.",
+              "Court documents unsealed by the judge contained heavy redactions regarding underlying evidence."
+            ],
+            "rebuttal": "Democrats emphasize that judges evaluate unsealing requests based on specific statutory criteria, privacy interests, and ongoing investigative needs in each unique case."
+          },
+          {
+            "claim": "Public disclosure of law enforcement records is necessary to maintain transparency in corruption inquiries.",
+            "why": "Voters have a right to know the basis for law enforcement searches involving sitting members of Congress.",
+            "evidence": [
+              "Federal records were unsealed following public and legal requests to examine the grounds for the residential search.",
+              "Prosecutors stated they are pursuing evidence of alleged crimes committed over extended periods."
+            ],
+            "rebuttal": "Democrats stress that unsealing unverified allegations before charges are filed can unfairly damage public reputations."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-23-1-jensen-huang-reinstated-as-nvidia-ceo-fo",
       "date": "2026-11-23",
