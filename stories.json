@@ -1,6 +1,282 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "stories": [
+    {
+      "id": "2026-11-25-1-debate-over-jensen-huang-s-return-to-nvi",
+      "date": "2026-11-25",
+      "topic": "Technology",
+      "headline": "Debate Over Jensen Huang's Return to Nvidia and Semiconductor Oversight",
+      "points": [
+        "President Trump and Vice President Vance supported Jensen Huang's reinstatement as Nvidia CEO to benefit economic growth.",
+        "National security officials and lawmakers across both parties raised concerns regarding ongoing federal probes into chip diversion to China.",
+        "Democrats raised conflict-of-interest questions regarding administration figures trading shares in the semiconductor company."
+      ],
+      "summary": "According to reporting from NPR, The Washington Post, and Fox News, President Trump and Vice President JD Vance intervened to facilitate the return of Jensen Huang as CEO of Nvidia, citing the decision as a boost for the U.S. economy. However, ongoing federal investigations into potential advanced chip diversions to China have raised national security questions among officials and lawmakers. At the same time, Democratic investigators have scrutinized regular trading of Nvidia shares within Trump-connected accounts. Vice President Vance stated that the Justice Department is not investigating Huang criminally, while critics question whether the move undermines export enforcement.",
+      "sides": {
+        "d": {
+          "take": "Democrats argue that semiconductor export risks to foreign adversaries require strict enforcement and question ethical conflicts surrounding presidential trading in Nvidia stock.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/24/nx-s1-6051028/jamie-raskin-donald-trump-jr-1789-capital-democrats-investigation"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/politics/2026/11/25/backing-jensen-huang-trump-delivers-setback-china-hawks/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans maintain that Huang's return strengthens domestic economic leadership and note that the executive is not facing criminal charges, though some GOP lawmakers seek briefings on national security risks.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/24/nx-s1-6051045/trump-takes-credit-for-jensen-huang-returns-to-nvidia-says-its-good-for-the-economy"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-officials-odds-tech-titan-comeback-national-security-concerns-linger"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/25/us-news/i-dont-think-jensen-huang-needs-a-pardon-jd-vance-says-i-talked-to-the-attorney-general/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Jensen Huang returned as CEO of Nvidia following intervention from top White House officials. The leadership transition comes amid federal probes into international firms suspected of diverting restricted technology to China. Lawmakers and administration officials are currently debating how to balance economic competitiveness in artificial intelligence with national security export restrictions.",
+        "agree": [
+          "Jensen Huang has returned as CEO of Nvidia.",
+          "Federal investigations into potential chip diversions to China remain active."
+        ],
+        "caseD": [
+          {
+            "claim": "Advanced semiconductor technology transfers to China represent significant national security concerns.",
+            "why": "Allowing restricted chips to reach strategic adversaries risks eroding vital technological and security advantages.",
+            "evidence": [
+              "The administration faces growing bipartisan calls to be tougher on U.S. chip exports and China.",
+              "Federal probes into Megaspeed and alleged chip diversion to China remain ongoing."
+            ],
+            "rebuttal": "Republicans argue that keeping key American tech executives in place is vital for the broader United States economy."
+          },
+          {
+            "claim": "Financial ties and trading activity related to Nvidia require scrutiny for potential conflicts of interest.",
+            "why": "Official government interventions in major corporations should remain insulated from personal or political financial interests.",
+            "evidence": [
+              "Trump's investment accounts traded Nvidia shares 44 times in the current year.",
+              "Democratic investigators are probing whether companies tied to administration figures have profited from government access."
+            ],
+            "rebuttal": "Republicans emphasize that the Department of Justice has confirmed it is not investigating Huang for criminal activity."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Reinstating Huang as head of Nvidia supports American economic growth and technological leadership.",
+            "why": "Nvidia is a key player in the artificial intelligence sector, and experienced leadership helps drive national economic growth.",
+            "evidence": [
+              "President Trump touted the return of Jensen Huang as good for the company and good for the United States economy.",
+              "Huang returned to his post after high-level intervention by the president and vice president."
+            ],
+            "rebuttal": "Democrats argue that economic goals should not overshadow bipartisan concerns regarding technological security and export controls."
+          },
+          {
+            "claim": "Huang is not accused of criminal misconduct and does not require executive clemency.",
+            "why": "Broader regulatory reviews involving supply-chain diversions do not equate to personal criminality by company leadership.",
+            "evidence": [
+              "Vice President JD Vance stated he consulted the attorney general and affirmed the DOJ is not investigating Huang for crimes.",
+              "Vance indicated publicly that Huang does not need a presidential pardon."
+            ],
+            "rebuttal": "Critics observe that members of Congress are still seeking intelligence briefings from the FBI and CIA regarding potential risks."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-2-trump-administration-proposes-new-tariff",
+      "date": "2026-11-25",
+      "topic": "Economy",
+      "headline": "Trump Administration Proposes New Tariffs on Major Trading Partners",
+      "points": [
+        "The Trump administration proposed new import tariffs on China, the European Union, and 12 other trading partners.",
+        "Officials stated the levies aim to counter foreign government subsidies that result in excess industrial capacity.",
+        "Democrats and critics warned that additional tariffs could heighten consumer affordability challenges."
+      ],
+      "summary": "According to reporting from Axios, The Washington Post, and BBC News, the Trump administration announced plans to implement a new round of tariffs targeting China, the European Union, and 12 other trading partners. The administration stated that the duties are intended to penalize foreign policies that generate excess industrial capacity, replacing previous measures invalidated by the Supreme Court. Democrats argue that expanding tariffs will worsen affordability issues for American households. The policy comes despite post-election survey data suggesting limited voter appetite for rising import duties.",
+      "sides": {
+        "d": {
+          "take": "Democrats oppose the proposed tariffs, arguing that higher import levies raise everyday consumer costs and contradict voter concerns over affordability.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/25/trump-tariffs-china"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans support the new tariff package, contending that strong trade measures are necessary to counter subsidized foreign manufacturing and protect domestic industry.",
+          "src": [
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/politics/2026/11/25/trump-proposes-new-tariffs-china-europe-other-trade-partners/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/25/trump-tariffs-china"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The Trump administration has consistently sought to use import tariffs as a tool to protect domestic industries and negotiate trade terms. After an earlier round of tariffs was struck down by the Supreme Court, officials formulated new measures targeted at foreign industrial practices. The new proposals follow midterm elections in which inflation and living costs were central voter concerns.",
+        "agree": [
+          "The Trump administration proposed new import taxes targeting China, the European Union, and 12 other trade partners.",
+          "The Supreme Court had previously struck down an earlier set of tariffs."
+        ],
+        "caseD": [
+          {
+            "claim": "New import taxes threaten to increase living costs and aggravate affordability concerns for American households.",
+            "why": "Tariff costs are frequently absorbed by domestic businesses and passed down to retail consumers through higher prices.",
+            "evidence": [
+              "The Democratic midterm sweep was fueled by voter concerns over affordability.",
+              "Post-election polling indicates voters overwhelmingly want tariffs to stay at current levels or decline."
+            ],
+            "rebuttal": "Republicans assert that targeted tariffs are essential to prevent subsidized foreign goods from undermining domestic producers."
+          },
+          {
+            "claim": "Expanding tariffs lacks broad public and political support.",
+            "why": "Recent electoral results and public surveys suggest that voters across political affiliations oppose tariff increases.",
+            "evidence": [
+              "Polling shows relatively little support even among Trump's political base for rising tariffs.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans argue that the executive branch must establish replacement trade protections to offset judicial rulings."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Tariffs are required to confront unfair foreign state subsidies and excess industrial capacity.",
+            "why": "Foreign governments that artificially subsidize manufacturing disadvantage American producers and distort global markets.",
+            "evidence": [
+              "The new round of import taxes specifically targets countries that prop up domestic industries.",
+              "The administration highlighted foreign policies creating excess industrial capacity across multiple major trading partners."
+            ],
+            "rebuttal": "Democrats argue that across-the-board tariffs act as an indirect domestic tax rather than an effective remedy for structural trade disputes."
+          },
+          {
+            "claim": "The administration must replace trade policies that were previously overturned by the courts.",
+            "why": "Maintaining national trade defenses requires adapting legal authorities after judicial setbacks.",
+            "evidence": [
+              "The proposal marks the latest administrative effort to replace tariffs struck down by the Supreme Court.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics contend that re-imposing rejected tariffs disregards judicial limits and consumer preferences."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-25-3-disputes-over-border-barrier-agreements-",
+      "date": "2026-11-25",
+      "topic": "Immigration",
+      "headline": "Disputes Over Border Barrier Agreements and Federal Immigration Policies",
+      "points": [
+        "Outgoing Texas officials and the Justice Department agreed to a 30-year legal settlement barring the removal of border wire barriers.",
+        "The Department of Justice mobilized attorneys to defend against nearly 97,000 habeas corpus petitions filed by ICE detainees.",
+        "House Republicans urged the passage of immigration reform legislation to prevent broader Democratic proposals."
+      ],
+      "summary": "According to reporting from The New York Times, Fox News, and The Hill, federal and state authorities are engaged in major legal and policy disputes over immigration enforcement. In Texas, outgoing Republican leaders and the Department of Justice signed an agreement preventing the removal of border wire barriers for 30 years ahead of an incoming Democratic administration. Simultaneously, Attorney General Todd Blanche directed civil litigators to contest approximately 97,000 habeas corpus petitions from detained migrants. On Capitol Hill, House Republicans are pressing for immigration measures to prevent future legislation they view as overly broad amnesty.",
+      "sides": {
+        "d": {
+          "take": "Democrats oppose multi-decade barrier settlements designed to limit incoming officials and advocate for procedural legal rights for immigration detainees.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6243654-kilmar-abrego-garcia-trump-administration-deportation-case/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans advocate for securing physical border infrastructure long-term and actively countering mass detention petitions while advancing targeted statutory reforms.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/25/us/politics/texas-border-legal-settlement-trump.html"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/trump-sign-dignity-act-dems-extreme-amnesty-push-house-republican-says"
+            ],
+            [
+              "Fox News",
+              "https://www.foxnews.com/politics/doj-lawyers-ordered-swarm-frivolous-97000-lawsuit-wave-ice-detainees"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "Border security and immigration enforcement remain contentious issues involving both federal and state jurisdictions. An upcoming leadership transition in Texas prompted outgoing officials to establish long-term legal agreements regarding border barriers. Concurrently, the federal judicial system is processing a high volume of detention challenges as congressional leaders debate reform legislation.",
+        "agree": [
+          "Texas officials and the Justice Department signed a settlement barring the removal of border wire for 30 years.",
+          "The Department of Justice is contesting tens of thousands of habeas corpus petitions submitted by ICE detainees."
+        ],
+        "caseD": [
+          {
+            "claim": "Decades-long barrier settlements unduly constrain incoming elected leaders and their policy authority.",
+            "why": "Outgoing administrations should not use legal agreements to bind future state governments to specific border infrastructure policies for 30 years.",
+            "evidence": [
+              "The legal settlement barring wire removal for 30 years was completed just before Democrats take over Texas state government.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans state that permanent infrastructure guarantees are necessary to ensure ongoing border integrity regardless of political changes."
+          },
+          {
+            "claim": "Detained migrants have a constitutional right to petition the courts regarding their detention conditions.",
+            "why": "Access to habeas corpus filings ensures that administrative detentions meet statutory and constitutional legal standards.",
+            "evidence": [
+              "Immigration detainees have submitted roughly 97,000 habeas corpus petitions to federal courts.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans argue that the massive influx of lawsuits is frivolous and designed to overwhelm Department of Justice resources."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Physical border infrastructure must be legally protected to guarantee long-term border security.",
+            "why": "Maintaining physical barriers prevents unauthorized crossings and prevents sudden policy reversals from weakening enforcement.",
+            "evidence": [
+              "The Trump administration and outgoing Texas officials formalized an agreement securing wire barriers for three decades.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats argue that razor-wire installations pose humanitarian concerns and hinder local operational flexibility."
+          },
+          {
+            "claim": "The federal government must vigorously counter mass litigation and pass legislative reform to prevent broad amnesty.",
+            "why": "Unchecked habeas filings overburden federal litigators, and failure to enact targeted reforms risks broader relief measures.",
+            "evidence": [
+              "Attorney General Todd Blanche mobilized civil litigators across the DOJ to fight 97,000 habeas corpus petitions from ICE detainees.",
+              "House Republicans warned that failing to act promptly on immigration legislation would lead to bills resembling broad amnesty."
+            ],
+            "rebuttal": "Critics contend that seeking to dismiss all habeas petitions en masse denies migrants due process protections under the law."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-24-1-president-trump-backs-reinstatement-of-n",
       "date": "2026-11-24",
