@@ -1,6 +1,290 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "stories": [
+    {
+      "id": "2026-11-26-1-trump-administration-proposes-new-tariff",
+      "date": "2026-11-26",
+      "topic": "Economy",
+      "headline": "Trump Administration Proposes New Tariffs on Major Trading Partners",
+      "points": [
+        "The Trump administration announced plans for new tariffs targeting goods from primary international trading partners.",
+        "Democratic lawmakers and free trade advocates expressed immediate opposition to the measures.",
+        "Trade analysts note that foreign trading partners have begun rerouting commerce in response to U.S. trade policy."
+      ],
+      "summary": "The Trump administration has proposed a new set of tariffs on goods imported from major U.S. trading partners. The announcement quickly generated opposition from Democratic lawmakers, including Senator Tim Kaine, as well as advocates of free trade. International observers report that several foreign nations are adapting by shifting their trade routes in response to recurring tariff threats. The policy debate centers on the domestic economic impacts and the broader strategy of international trade relations.",
+      "sides": {
+        "d": {
+          "take": "Democratic lawmakers oppose the proposed tariffs, arguing that the trade restrictions harm economic stability and consumer interests.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
+            ]
+          ]
+        },
+        "r": {
+          "take": "The Trump administration supports the new tariffs as a primary trade mechanism to confront major trading partners.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+            ]
+          ]
+        },
+        "m": {
+          "take": "International trade analysts suggest that while tariffs alter commerce, foreign countries are actively mitigating the threat by rerouting global trade flows.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Tariffs have served as a core economic tool of the Trump administration in negotiations with foreign trading partners. Previous rounds of import duties led to international trade disputes and adjustments in global supply chains. The latest proposal reopens the debate over U.S. trade policy and its effects on domestic businesses and international relationships.",
+        "agree": [
+          "The Trump administration has officially proposed new tariffs on major foreign trading partners.",
+          "International trade flows and routes are actively influenced by U.S. tariff policy."
+        ],
+        "caseD": [
+          {
+            "claim": "Imposing new tariffs harms trade relationships and domestic economic interests.",
+            "why": "Democrats and free trade advocates maintain that broad tariffs create unnecessary economic friction and disrupt established supply chains.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans argue that imposing tariffs is necessary to protect domestic industries and pressure foreign trading partners into fairer practices."
+          },
+          {
+            "claim": "Legislative pushback is needed to halt aggressive trade barriers.",
+            "why": "Congressional Democrats such as Senator Tim Kaine argue that lawmakers must actively resist unilateral executive trade actions.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Supporters of the administration argue executive tariff authority provides necessary leverage to negotiate better bilateral terms."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "New tariffs are an essential tool to hold major trade partners accountable.",
+            "why": "The administration views tariffs as an effective measure to rebalance trade relationships and address persistent trade deficits.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Opponents contend that trading partners simply reroute goods or impose retaliatory measures, blunting the intended benefits."
+          },
+          {
+            "claim": "Aggressive trade measures protect the domestic market.",
+            "why": "Proponents assert that placing duties on foreign imports incentivizes reliance on domestic production and shields local commerce.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics note that import taxes raise costs for domestic buyers and free trade advocates oppose such market interventions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-2-congress-and-industry-debate-security-an",
+      "date": "2026-11-26",
+      "topic": "Technology",
+      "headline": "Congress and Industry Debate Security and Regulatory Controls for Artificial Intelligence",
+      "points": [
+        "Lawmakers from both parties are exploring legislative options to address the development of artificial intelligence.",
+        "Prominent Democrats are calling for stricter safeguards following internal safety warnings at major AI firms.",
+        "Republican lawmakers are pressing intelligence agencies regarding potential national security risks linked to advanced semiconductor hardware."
+      ],
+      "summary": "Efforts to establish federal oversight of artificial intelligence are gathering momentum across both political parties. Democratic leaders have called for new restrictions on AI development after industry reports highlighted employee concerns over controlling powerful models. Concurrently, congressional Republicans are seeking answers from intelligence agencies regarding national security risks and semiconductor export policies. Despite shared interest in oversight, legislative progress faces challenges from procedural delays and jurisdictional disputes.",
+      "sides": {
+        "d": {
+          "take": "Democrats demand mandatory safeguards and development limits to prevent companies from releasing AI systems they may not be able to control safely.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Republicans are scrutinizing national security risks and questioning whether federal intelligence agencies properly warned industry leaders about foreign threats.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+            ],
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html"
+            ],
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/politics/2026/11/25/backing-jensen-huang-trump-delivers-setback-china-hawks/"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Industry executives argue that AI development must balance safety with maintaining human legitimacy and self-determination rather than surrendering governance entirely to algorithms.",
+          "src": [
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "The rapid advancement of frontier AI models and specialized computing hardware has prompted calls for government intervention. Federal agencies and lawmakers have debated how to regulate algorithmic risks without undermining technological competitiveness. Recent scrutiny has expanded beyond economic disruptions to encompass catastrophic safety concerns and foreign military access to advanced chips.",
+        "agree": [
+          "Both parties acknowledge a need to address federal policy regarding artificial intelligence.",
+          "Legislative efforts in Congress face potential obstacles from procedural friction and institutional jurisdiction battles."
+        ],
+        "caseD": [
+          {
+            "claim": "Urgent federal restrictions must be placed on advanced AI systems.",
+            "why": "Democrats argue that rapid corporate development poses existential safety risks if systems cannot be reliably controlled.",
+            "evidence": [
+              "Employees at leading AI firms expressed internal fears that powerful models cannot be safely released.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics argue that heavy-handed regulations could stifle domestic innovation while foreign competitors advance unchecked."
+          },
+          {
+            "claim": "Voluntary corporate self-regulation is insufficient for technological safety.",
+            "why": "Democratic leaders assert that public safety cannot rely entirely on private companies whose commercial incentives may outweigh risk management.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Opponents contend that existing statutory authorities and industry-led safety frameworks are better suited to keep pace with rapid technical changes."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "National security oversight must examine foreign access to advanced technology.",
+            "why": "Republican lawmakers argue that intelligence agencies must clarify what risks exist regarding sensitive tech components and foreign adversaries.",
+            "evidence": [
+              "A Republican lawmaker formally questioned the FBI and CIA over potential threats involving Nvidia and its chief executive.",
+              "Bipartisan lawmakers called for tougher scrutiny on chip exports toward China."
+            ],
+            "rebuttal": "Some industry supporters and administration officials maintain that maintaining strong commercial partnerships is essential for global market leadership."
+          },
+          {
+            "claim": "Federal scrutiny should focus on espionage and national defense rather than overregulating domestic industry.",
+            "why": "Republicans emphasize preventing intellectual property theft and military exploitation of U.S. chips by foreign rivals over domestic regulatory burdens.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats counter that domestic model safety is an immediate risk that cannot be separated from broader governance efforts."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-26-3-trump-calls-for-investigation-into-gover",
+      "date": "2026-11-26",
+      "topic": "Economy",
+      "headline": "Trump Calls for Investigation into Government Economic Data Revisions",
+      "points": [
+        "President Trump demanded an inquiry into official GDP revisions that showed stronger economic growth than previously reported.",
+        "The president claimed the pre-election economic numbers were deliberately understated to harm his party.",
+        "Economists and government agencies note that revisions to growth estimates occur routinely as additional data becomes available."
+      ],
+      "summary": "President Trump called for a formal investigation into federal economic statistics following a regular revision to third-quarter GDP figures. The revised government data showed that economic growth was approximately 0.9 percentage points higher than initial estimates published prior to the midterm elections. Trump alleged that the earlier estimates were intentionally suppressed to influence the election outcome. Statistical authorities and analysts maintain that periodic revisions reflect normal data collection processes rather than political interference.",
+      "sides": {
+        "d": {
+          "take": "Democrats ran on economic issues and affordability during the midterms, benefiting from voter concerns while treating standard statistical updates as routine nonpartisan work.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/homenews/house/6244906-tom-emmer-republicans-economy-messaging/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics"
+            ]
+          ]
+        },
+        "r": {
+          "take": "President Trump alleged that economic figures released prior to the election were purposefully altered and called for a federal investigation into the data revisions.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/homenews/administration/6244831-trump-thanksgiving-message-critics-gdp-somali-community/"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/26/trump-gdp-investigation-economy-statistics"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/26/us-news/president-trump-calls-for-probe-into-why-economic-growth-figures-revised-up-so-sharply-after-election-alleges-purposeful-error/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The Bureau of Economic Analysis releases initial quarterly gross domestic product estimates and subsequently revises them as comprehensive surveys and financial records become accessible. Political debates surrounding economic performance frequently intensify around national elections. Following the recent midterm elections, updated figures showing higher growth sparked renewed disputes over the neutrality of official data.",
+        "agree": [
+          "Third-quarter GDP figures were revised upward by approximately 0.9 percentage points after the midterm elections.",
+          "President Trump publicly questioned the timing of the data revisions and called for an official investigation."
+        ],
+        "caseD": [
+          {
+            "claim": "Statistical revisions are standard bureaucratic procedures rather than partisan manipulation.",
+            "why": "Economic data adjustments routinely occur to incorporate more comprehensive reports that are unavailable during initial estimate windows.",
+            "evidence": [
+              "Revisions to GDP are routine procedures reflecting complete information gathered after preliminary reports.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans argue that the timing of positive revisions appearing only after an election raises valid transparency questions."
+          },
+          {
+            "claim": "Questioning nonpartisan economic data risks undermining institutional trust.",
+            "why": "Challenging core economic indicators without factual documentation threatens public and market confidence in official government statistics.",
+            "evidence": [
+              "Coverage noted allegations could renew concerns about political interference in critical economic data underpinning trillions of dollars.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Conservatives counter that oversight is essential to guarantee that federal agencies remain accountable and free from administrative bias."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "The timing of significant positive GDP revisions warrants an investigation.",
+            "why": "The administration argues that releasing lower growth estimates before an election and revising them upward shortly after suggests intentional error.",
+            "evidence": [
+              "Third-quarter economic growth was revised upward by about 0.9 percentage points following the midterm vote.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Statistical experts point out that preliminary estimates are always subject to adjustments regardless of election calendars."
+          },
+          {
+            "claim": "Economic messaging was disadvantaged by preliminary reports.",
+            "why": "Party leaders assert that inaccurate initial reporting contributed to false perceptions of the economy ahead of competitive midterms.",
+            "evidence": [
+              "House Republican leadership acknowledged ceding affordability messaging prior to midterm election losses.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics assert that economic sentiment depends on broad everyday prices and living costs rather than technical quarterly GDP updates."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-25-1-debate-over-jensen-huang-s-return-to-nvi",
       "date": "2026-11-25",
