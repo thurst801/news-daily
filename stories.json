@@ -1,6 +1,278 @@
 {
-  "updated": "2026-11-26",
+  "updated": "2026-11-27",
   "stories": [
+    {
+      "id": "2026-11-27-1-trump-administration-proposes-new-tariff",
+      "date": "2026-11-27",
+      "topic": "Economy",
+      "headline": "Trump Administration Proposes New Tariffs on Major Trading Partners",
+      "points": [
+        "The Trump administration announced plans to levy new tariffs on goods from key foreign trade partners.",
+        "Democratic lawmakers and free trade advocates publicly voiced opposition to the proposal.",
+        "International analysts suggest trading partners may adjust supply chains to limit economic disruption."
+      ],
+      "summary": "The Trump administration has proposed an array of new tariffs targeting goods imported from major trading partners of the United States. The measure quickly drew opposition from Democratic officials, including Senator Tim Kaine, as well as advocates of free trade. International observers report that some countries have already begun rerouting trade routes in response to earlier U.S. tariffs. The debate centers on the economic effects of protective trade barriers versus open global commerce.",
+      "sides": {
+        "d": {
+          "take": "Democrats argue that proposed tariffs harm relationships with key allies and impose unnecessary economic burdens on consumers and businesses.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+            ],
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/26/nx-s1-6053944/sen-tim-kaine-d-va-shares-why-he-opposes-trumps-proposed-tariffs"
+            ]
+          ]
+        },
+        "r": {
+          "take": "The Trump administration asserts that imposing tariffs on major trading partners protects domestic industry and corrects imbalances in global trade.",
+          "src": [
+            [
+              "NPR",
+              "https://www.npr.org/2026/11/26/nx-s1-6054103/trump-administration-proposes-new-tariffs-on-goods-from-major-u-s-trading-partners"
+            ]
+          ]
+        },
+        "m": {
+          "take": "Trade analysts observe that foreign partners are actively adapting by rerouting commerce, which may soften the overall impact of the new measures.",
+          "src": [
+            [
+              "BBC News",
+              "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss"
+            ]
+          ]
+        }
+      },
+      "deep": {
+        "background": "Tariffs have been a core component of President Trump's economic and trade strategy during his terms in office. Previous rounds of import duties prompted international trade friction and adjustments by global export markets. The latest proposal reopens the debate over protective trade policy as the administration seeks further leverage over foreign trading partners.",
+        "agree": [
+          "The Trump administration has formally proposed new tariffs on foreign goods.",
+          "Major U.S. trading partners are directly affected by the proposed trade policy changes."
+        ],
+        "caseD": [
+          {
+            "claim": "New import tariffs risk causing economic harm and disruption to domestic consumers.",
+            "why": "Democrats and free-trade advocates argue that duties raise costs on goods and damage relationships with international partners.",
+            "evidence": [
+              "Senator Tim Kaine voiced direct opposition to the administration's tariff plans.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans maintain that targeted tariffs are necessary to revitalize domestic industries and renegotiate fair terms."
+          },
+          {
+            "claim": "Unilateral trade barriers alienate established trade partners.",
+            "why": "Opponents contend that abrupt tariffs lead trading partners to redirect economic activities away from the United States.",
+            "evidence": [
+              "Reporting indicates that other nations have rerouted trade in response to earlier tariff actions.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Administration supporters argue that strong tariffs force foreign partners to offer better trade concessions."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Tariffs are an effective mechanism to rebalance trade with international competitors.",
+            "why": "The administration views tariffs as a direct method to counter foreign trade practices and boost domestic manufacturing.",
+            "evidence": [
+              "The administration introduced proposals applying tariffs to goods from major U.S. trading partners.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats argue that tariffs act as a tax on domestic purchasers rather than foreign exporters."
+          },
+          {
+            "claim": "Aggressive trade policy creates leverage to protect national economic interests.",
+            "why": "Proponents believe that threatening market access compels other nations to address longstanding commercial disputes.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics contend that trading partners simply work around the barriers rather than making meaningful concessions."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-27-2-u-s-enforces-iran-blockade-as-lawmakers-",
+      "date": "2026-11-27",
+      "topic": "Foreign Policy",
+      "headline": "U.S. Enforces Iran Blockade as Lawmakers Debate Executive Foreign Policy",
+      "points": [
+        "The U.S. military disabled a commercial cargo vessel attempting to breach the naval blockade against Iran.",
+        "Democratic lawmakers expressed intentions to place legislative limits on the administration's military maneuvers.",
+        "Presidential comments regarding the conflict's timeline sparked criticism from political opponents."
+      ],
+      "summary": "U.S. Central Command announced that American military forces disabled a commercial vessel after it attempted to breach an active naval blockade near Bandar Abbas, Iran. The operation occurs amid a broader conflict that has heightened political debate in Washington. Democrats have signaled plans to use congressional authority to check executive military engagements, though analysts question their reach. Meanwhile, public remarks by President Trump concerning the war's conclusion drew rebukes from critics.",
+      "sides": {
+        "d": {
+          "take": "Democrats plan to use congressional oversight to restrain administration military operations and criticized the president's holiday remarks regarding the war.",
+          "src": [
+            [
+              "The Washington Post",
+              "https://www.washingtonpost.com/national-security/2026/11/27/democrats-vow-restrain-trumps-foreign-policy-foresee-limits/"
+            ],
+            [
+              "HuffPost",
+              "https://www.huffpost.com/entry/donald-trump-iran-comment-reaction_n_6b092979e4b01f494a036ec4"
+            ]
+          ]
+        },
+        "r": {
+          "take": "The administration and military officials defended active enforcement of the blockade to stop Iran from evading strategic maritime restrictions.",
+          "src": [
+            [
+              "The Hill",
+              "https://thehill.com/policy/defense/6245428-us-naval-blockade-iran-ship-disabled/"
+            ],
+            [
+              "National Review",
+              "https://www.nationalreview.com/article/iran-overland-scramble-is-a-turning-point"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "The United States has engaged in an active naval blockade targeting Iranian ports to enforce security restrictions. Regional tensions escalated following maritime interdictions and expanded military encounters. The conflict has become a key flashpoint between the executive branch and lawmakers seeking a greater voice in foreign policy.",
+        "agree": [
+          "The U.S. military is maintaining an active naval blockade against Iranian ports.",
+          "American forces intercepted and disabled a commercial vessel that departed Bandar Abbas after warnings were issued."
+        ],
+        "caseD": [
+          {
+            "claim": "Congress must assert constitutional oversight to prevent unchecked foreign military involvement.",
+            "why": "Democrats argue that unilateral presidential escalation risks widening conflicts without sufficient legislative input.",
+            "evidence": [
+              "Democratic leaders vowed to use the incoming congressional majority to rein in executive foreign policy.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Republicans argue that legislative micromanagement weakens the commander-in-chief's ability to act decisively during armed hostilities."
+          },
+          {
+            "claim": "Executive rhetoric concerning active service members and war milestones requires accountability.",
+            "why": "Critics maintain that dismissive remarks regarding military deployments undermine servicemembers and strategic goals.",
+            "evidence": [
+              "The president's comments to a service member regarding the war's conclusion drew criticism over Thanksgiving.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Supporters contend that public comments are being scrutinized out of context by political opponents."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Strict enforcement of the naval blockade is vital to national security and regional containment.",
+            "why": "Military leadership and administration allies argue that allowing vessels to violate blockades undermines international deterrence.",
+            "evidence": [
+              "U.S. Central Command confirmed disabling a bulk carrier that attempted to run the blockade despite repeated warnings.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Democrats warn that maritime interdictions can spark unintended direct escalations with foreign adversaries."
+          },
+          {
+            "claim": "Disrupting evasion routes constrains adversaries' strategic capabilities.",
+            "why": "Proponents argue that shutting down maritime and overland supply networks prevents hostile regimes from sustaining military activities.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics dispute whether unilateral pressure campaigns achieve lasting regional stability."
+          }
+        ]
+      }
+    },
+    {
+      "id": "2026-11-27-3-early-manuevering-begins-for-the-2028-pr",
+      "date": "2026-11-27",
+      "topic": "Elections",
+      "headline": "Early Manuevering Begins for the 2028 Presidential Field",
+      "points": [
+        "Potential Republican candidates, including JD Vance and Marco Rubio, navigate their standing with President Trump.",
+        "Democratic figures are floating and endorsing prospective contenders for the upcoming presidential primary cycle.",
+        "Party strategists evaluate how recent midterm election results will shape the next White House contest."
+      ],
+      "summary": "Following the recent midterm elections, discussion among political figures in both parties has turned toward the 2028 presidential election. Potential Republican contenders, such as Vice President JD Vance and Secretary of State Marco Rubio, are weighing their political independence against loyalty to President Trump, who continues to float multiple possible successors. On the Democratic side, figures such as Representative Ro Khanna, Representative Alexandria Ocasio-Cortez, and Vice President Kamala Harris are drawing early attention. Commentators and progressive leaders have already begun issuing endorsements and debating the future direction of both parties.",
+      "sides": {
+        "d": {
+          "take": "Democratic politicians and commentators are beginning early assessments of candidates who can unify the party and build on recent legislative and electoral positions.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
+            ],
+            [
+              "The Hill",
+              "https://thehill.com/homenews/campaign/6245451-cenk-uygur-ro-khanna-2028-election/"
+            ]
+          ]
+        },
+        "r": {
+          "take": "Potential Republican candidates are balancing alignment with Trump's political base while positioning themselves for the post-Trump era.",
+          "src": [
+            [
+              "The New York Times",
+              "https://www.nytimes.com/2026/11/27/us/politics/2028-presidential-race-questions.html"
+            ],
+            [
+              "Axios",
+              "https://www.axios.com/2026/11/27/vance-rubio-trump-downside-2028"
+            ],
+            [
+              "New York Post",
+              "https://nypost.com/2026/11/27/us-news/trump-keeps-vance-rubio-guessing-on-2028-endorsement-while-also-praising-hegseth-for-doing-a-great-job/"
+            ]
+          ]
+        },
+        "m": null
+      },
+      "deep": {
+        "background": "With the conclusion of recent federal midterm races, the primary fields for the 2028 presidential campaign are beginning to take preliminary shape. Both parties face internal discussions regarding leadership, ideology, and succession. President Trump remains an influential figure in determining the Republican nomination, while Democrats are weighing progressive and establishment paths.",
+        "agree": [
+          "Discussions and endorsements concerning candidates for the 2028 presidential election have commenced.",
+          "Both parties have prominent figures weighing prospective candidacies."
+        ],
+        "caseD": [
+          {
+            "claim": "The Democratic Party needs candidates with strong progressive credentials to generate national voter enthusiasm.",
+            "why": "Supporters of progressive leadership argue that bold policy positions resonate most effectively with the emerging electorate.",
+            "evidence": [
+              "Media commentator Cenk Uygur publicly endorsed Representative Ro Khanna for the 2028 presidential nomination.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Moderates caution that candidates perceived as too far left may face challenges in competitive general election battlegrounds."
+          },
+          {
+            "claim": "Recent electoral performances provide a blueprint for selecting the next nominee.",
+            "why": "Party strategists argue that building upon successful campaign coalitions is key to reclaiming executive power.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Opponents argue that midterm dynamics do not directly translate to presidential general election dynamics."
+          }
+        ],
+        "caseR": [
+          {
+            "claim": "Remaining closely aligned with the Trump agenda is essential for retaining the party base in 2028.",
+            "why": "Allies argue that the party's voters remain committed to the policies and direction established by the president.",
+            "evidence": [
+              "President Trump continues to publicly evaluate and discuss prospective successors including JD Vance and Marco Rubio.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Critics contend that strict adherence to the administration's platform can saddle candidates with controversial policy outcomes."
+          },
+          {
+            "claim": "Prospective Republican contenders must maintain executive discipline while establishing individual leadership appeal.",
+            "why": "Strategists argue that candidates who successfully balance administration loyalty with independent executive standing will emerge strongest.",
+            "evidence": [
+              "Supporters did not cite specific evidence in the coverage reviewed.",
+              "Supporters did not cite specific evidence in the coverage reviewed."
+            ],
+            "rebuttal": "Disputed by observers who note that navigating conflicting presidential directives presents difficult political liabilities."
+          }
+        ]
+      }
+    },
     {
       "id": "2026-11-26-1-trump-administration-proposes-new-tariff",
       "date": "2026-11-26",
